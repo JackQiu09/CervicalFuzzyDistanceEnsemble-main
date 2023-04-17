@@ -1,5 +1,5 @@
 import tensorflow as tf
-from tensorflow.python.keras.models import Model
+from tensorflow.keras.models import Model
 
 
 def create_model(model_name, IMG_SIZE=256, output=5):

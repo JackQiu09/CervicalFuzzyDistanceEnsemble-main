@@ -4,9 +4,6 @@ from utils.generate_csv import generate_csv
 from utils.k_fold_splits import k_fold_splits
 from utils.k_fold_separate import k_fold_separate
 
-from matplotlib.pyplot import imread
-
-
 parser = argparse.ArgumentParser()
 parser.add_argument('--num_epochs', type=int, default=70,
                     help='Number of Epochs for training')
@@ -33,7 +30,6 @@ files_for_validation_y = []
 k_fold_splits(x, y, files_for_train_x, files_for_validation_x,
               files_for_train_y, files_for_validation_y, n_splits=args.kfold)  # n_splits = 5
 
-# testing
 
 # N is the number of folds
 N = len(files_for_train_x)
