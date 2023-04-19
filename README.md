@@ -3,6 +3,8 @@
 
 **A fuzzy distance-based ensemble of deep models for cervical cancer detection**
 
+Author: Shiqian Qiu, Jianxiang Ma, Jiahong Zhai
+
 Find the original paper [here](https://www.sciencedirect.com/science/article/pii/S0169260722001626).
 <p align="center">
   <img src="./pipe.jpg" width="600" title="Overall Pipeline">
