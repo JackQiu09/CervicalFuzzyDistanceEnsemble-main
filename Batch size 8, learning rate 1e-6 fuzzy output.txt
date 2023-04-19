@@ -1,0 +1,1545 @@
+CSV being generated
+Generation Complete
+------------------------------------------------------------------------
+
+fold no ---  1
+
+------------------------------------------------------------------------
+
+InceptionV3
+
+Downloading data from https://storage.googleapis.com/tensorflow/keras-applications/inception_v3/inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5
+87916544/87910968 [==============================] - 1s 0us/step
+87924736/87910968 [==============================] - 1s 0us/step
+Epoch 1/70
+405/405 [==============================] - 98s 197ms/step - loss: 1.6324 - accuracy: 0.2760 - val_loss: 1.6549 - val_accuracy: 0.2309
+Epoch 2/70
+405/405 [==============================] - 74s 182ms/step - loss: 1.4690 - accuracy: 0.3631 - val_loss: 1.5240 - val_accuracy: 0.3877
+Epoch 3/70
+405/405 [==============================] - 74s 183ms/step - loss: 1.3915 - accuracy: 0.4233 - val_loss: 1.4228 - val_accuracy: 0.4840
+Epoch 4/70
+405/405 [==============================] - 74s 183ms/step - loss: 1.3254 - accuracy: 0.4557 - val_loss: 1.3179 - val_accuracy: 0.5198
+Epoch 5/70
+405/405 [==============================] - 76s 188ms/step - loss: 1.2778 - accuracy: 0.4986 - val_loss: 1.2131 - val_accuracy: 0.5580
+Epoch 6/70
+405/405 [==============================] - 74s 182ms/step - loss: 1.2350 - accuracy: 0.5045 - val_loss: 1.1922 - val_accuracy: 0.5679
+Epoch 7/70
+405/405 [==============================] - 74s 182ms/step - loss: 1.2015 - accuracy: 0.5236 - val_loss: 1.2466 - val_accuracy: 0.6012
+Epoch 8/70
+405/405 [==============================] - 74s 182ms/step - loss: 1.1419 - accuracy: 0.5567 - val_loss: 1.1761 - val_accuracy: 0.6074
+Epoch 9/70
+405/405 [==============================] - 73s 180ms/step - loss: 1.1339 - accuracy: 0.5600 - val_loss: 1.1252 - val_accuracy: 0.6272
+Epoch 10/70
+405/405 [==============================] - 75s 184ms/step - loss: 1.0894 - accuracy: 0.5795 - val_loss: 1.1203 - val_accuracy: 0.6309
+Epoch 11/70
+405/405 [==============================] - 75s 185ms/step - loss: 1.0761 - accuracy: 0.5838 - val_loss: 1.0563 - val_accuracy: 0.6481
+Epoch 12/70
+405/405 [==============================] - 76s 188ms/step - loss: 1.0766 - accuracy: 0.5974 - val_loss: 1.0631 - val_accuracy: 0.6506
+Epoch 13/70
+405/405 [==============================] - 83s 204ms/step - loss: 1.0668 - accuracy: 0.5943 - val_loss: 1.0183 - val_accuracy: 0.6840
+Epoch 14/70
+405/405 [==============================] - 77s 191ms/step - loss: 1.0136 - accuracy: 0.6162 - val_loss: 1.0418 - val_accuracy: 0.6593
+Epoch 15/70
+405/405 [==============================] - 77s 190ms/step - loss: 1.0572 - accuracy: 0.6064 - val_loss: 1.0179 - val_accuracy: 0.6864
+Epoch 16/70
+405/405 [==============================] - 74s 182ms/step - loss: 1.0032 - accuracy: 0.6252 - val_loss: 1.0333 - val_accuracy: 0.6840
+Epoch 17/70
+405/405 [==============================] - 76s 186ms/step - loss: 1.0142 - accuracy: 0.6113 - val_loss: 1.0117 - val_accuracy: 0.6716
+Epoch 18/70
+405/405 [==============================] - 74s 183ms/step - loss: 0.9986 - accuracy: 0.6323 - val_loss: 0.9645 - val_accuracy: 0.6975
+Epoch 19/70
+405/405 [==============================] - 76s 188ms/step - loss: 0.9846 - accuracy: 0.6292 - val_loss: 0.9229 - val_accuracy: 0.7037
+Epoch 20/70
+405/405 [==============================] - 76s 187ms/step - loss: 0.9780 - accuracy: 0.6406 - val_loss: 1.0039 - val_accuracy: 0.6975
+Epoch 21/70
+405/405 [==============================] - 74s 183ms/step - loss: 0.9712 - accuracy: 0.6286 - val_loss: 0.9930 - val_accuracy: 0.6975
+Epoch 22/70
+405/405 [==============================] - 74s 184ms/step - loss: 0.9683 - accuracy: 0.6308 - val_loss: 0.9416 - val_accuracy: 0.7086
+Epoch 23/70
+405/405 [==============================] - 77s 189ms/step - loss: 0.9858 - accuracy: 0.6348 - val_loss: 0.9273 - val_accuracy: 0.7123
+Epoch 24/70
+405/405 [==============================] - 74s 182ms/step - loss: 0.9709 - accuracy: 0.6292 - val_loss: 0.9330 - val_accuracy: 0.7198
+Epoch 25/70
+405/405 [==============================] - 74s 182ms/step - loss: 0.9354 - accuracy: 0.6536 - val_loss: 0.8576 - val_accuracy: 0.7210
+Epoch 26/70
+405/405 [==============================] - 73s 181ms/step - loss: 0.9643 - accuracy: 0.6422 - val_loss: 0.8767 - val_accuracy: 0.7222
+Epoch 27/70
+405/405 [==============================] - 74s 183ms/step - loss: 0.9445 - accuracy: 0.6505 - val_loss: 0.8298 - val_accuracy: 0.7309
+Epoch 28/70
+405/405 [==============================] - 74s 183ms/step - loss: 0.9237 - accuracy: 0.6440 - val_loss: 0.8521 - val_accuracy: 0.7383
+Epoch 29/70
+405/405 [==============================] - 77s 191ms/step - loss: 0.9582 - accuracy: 0.6434 - val_loss: 0.8221 - val_accuracy: 0.7309
+Epoch 30/70
+405/405 [==============================] - 77s 189ms/step - loss: 0.9495 - accuracy: 0.6357 - val_loss: 0.8421 - val_accuracy: 0.7160
+Epoch 31/70
+405/405 [==============================] - 74s 183ms/step - loss: 0.9592 - accuracy: 0.6505 - val_loss: 0.8483 - val_accuracy: 0.7198
+Epoch 32/70
+405/405 [==============================] - 74s 182ms/step - loss: 0.9472 - accuracy: 0.6443 - val_loss: 0.8692 - val_accuracy: 0.7185
+Epoch 33/70
+405/405 [==============================] - 75s 186ms/step - loss: 0.9312 - accuracy: 0.6490 - val_loss: 0.8381 - val_accuracy: 0.7346
+Epoch 34/70
+405/405 [==============================] - 74s 182ms/step - loss: 0.9234 - accuracy: 0.6453 - val_loss: 0.7910 - val_accuracy: 0.7309
+Epoch 35/70
+405/405 [==============================] - 74s 183ms/step - loss: 0.9340 - accuracy: 0.6465 - val_loss: 0.7874 - val_accuracy: 0.7383
+Epoch 36/70
+405/405 [==============================] - 73s 181ms/step - loss: 0.9049 - accuracy: 0.6693 - val_loss: 0.8089 - val_accuracy: 0.7420
+Epoch 37/70
+405/405 [==============================] - 74s 183ms/step - loss: 0.9130 - accuracy: 0.6542 - val_loss: 0.8155 - val_accuracy: 0.7358
+Epoch 38/70
+405/405 [==============================] - 74s 182ms/step - loss: 0.9297 - accuracy: 0.6517 - val_loss: 0.7786 - val_accuracy: 0.7494
+Epoch 39/70
+405/405 [==============================] - 73s 181ms/step - loss: 0.9328 - accuracy: 0.6567 - val_loss: 0.8025 - val_accuracy: 0.7432
+Epoch 40/70
+405/405 [==============================] - 74s 183ms/step - loss: 0.9348 - accuracy: 0.6437 - val_loss: 0.7856 - val_accuracy: 0.7519
+Epoch 41/70
+405/405 [==============================] - 74s 182ms/step - loss: 0.9135 - accuracy: 0.6635 - val_loss: 0.8150 - val_accuracy: 0.7309
+Epoch 42/70
+405/405 [==============================] - 74s 183ms/step - loss: 0.9034 - accuracy: 0.6585 - val_loss: 0.7824 - val_accuracy: 0.7407
+Epoch 43/70
+405/405 [==============================] - 75s 186ms/step - loss: 0.8660 - accuracy: 0.6783 - val_loss: 0.8196 - val_accuracy: 0.7432
+Epoch 44/70
+405/405 [==============================] - 75s 184ms/step - loss: 0.8923 - accuracy: 0.6653 - val_loss: 0.8056 - val_accuracy: 0.7432
+Epoch 45/70
+405/405 [==============================] - 73s 181ms/step - loss: 0.8878 - accuracy: 0.6706 - val_loss: 0.7617 - val_accuracy: 0.7580
+Epoch 46/70
+405/405 [==============================] - 76s 188ms/step - loss: 0.8933 - accuracy: 0.6622 - val_loss: 0.7748 - val_accuracy: 0.7383
+Epoch 47/70
+405/405 [==============================] - 72s 179ms/step - loss: 0.8847 - accuracy: 0.6598 - val_loss: 0.7788 - val_accuracy: 0.7457
+Epoch 48/70
+405/405 [==============================] - 72s 177ms/step - loss: 0.8794 - accuracy: 0.6721 - val_loss: 0.7641 - val_accuracy: 0.7481
+Epoch 49/70
+405/405 [==============================] - 72s 179ms/step - loss: 0.8846 - accuracy: 0.6644 - val_loss: 0.7614 - val_accuracy: 0.7444
+Epoch 50/70
+405/405 [==============================] - 70s 173ms/step - loss: 0.8846 - accuracy: 0.6693 - val_loss: 0.7770 - val_accuracy: 0.7407
+Epoch 51/70
+405/405 [==============================] - 73s 179ms/step - loss: 0.9020 - accuracy: 0.6595 - val_loss: 0.7699 - val_accuracy: 0.7358
+Epoch 52/70
+405/405 [==============================] - 70s 173ms/step - loss: 0.8661 - accuracy: 0.6727 - val_loss: 0.7586 - val_accuracy: 0.7568
+Epoch 53/70
+405/405 [==============================] - 72s 177ms/step - loss: 0.8849 - accuracy: 0.6672 - val_loss: 0.7529 - val_accuracy: 0.7481
+Epoch 54/70
+405/405 [==============================] - 72s 177ms/step - loss: 0.8695 - accuracy: 0.6811 - val_loss: 0.7710 - val_accuracy: 0.7383
+Epoch 55/70
+405/405 [==============================] - 70s 173ms/step - loss: 0.8790 - accuracy: 0.6675 - val_loss: 0.7377 - val_accuracy: 0.7691
+Epoch 56/70
+405/405 [==============================] - 72s 177ms/step - loss: 0.8708 - accuracy: 0.6746 - val_loss: 0.7708 - val_accuracy: 0.7593
+Epoch 57/70
+405/405 [==============================] - 70s 173ms/step - loss: 0.9019 - accuracy: 0.6604 - val_loss: 0.7944 - val_accuracy: 0.7407
+Epoch 58/70
+405/405 [==============================] - 73s 180ms/step - loss: 0.8856 - accuracy: 0.6641 - val_loss: 0.7644 - val_accuracy: 0.7506
+Epoch 59/70
+405/405 [==============================] - 71s 176ms/step - loss: 0.8651 - accuracy: 0.6832 - val_loss: 0.7490 - val_accuracy: 0.7444
+Epoch 60/70
+405/405 [==============================] - 73s 179ms/step - loss: 0.8917 - accuracy: 0.6592 - val_loss: 0.7110 - val_accuracy: 0.7543
+Epoch 61/70
+405/405 [==============================] - 72s 177ms/step - loss: 0.8823 - accuracy: 0.6663 - val_loss: 0.7429 - val_accuracy: 0.7642
+Epoch 62/70
+405/405 [==============================] - 70s 173ms/step - loss: 0.8861 - accuracy: 0.6715 - val_loss: 0.7305 - val_accuracy: 0.7568
+Epoch 63/70
+405/405 [==============================] - 72s 178ms/step - loss: 0.8580 - accuracy: 0.6888 - val_loss: 0.7425 - val_accuracy: 0.7642
+Epoch 64/70
+405/405 [==============================] - 70s 173ms/step - loss: 0.8781 - accuracy: 0.6752 - val_loss: 0.7515 - val_accuracy: 0.7506
+Epoch 65/70
+405/405 [==============================] - 71s 176ms/step - loss: 0.8815 - accuracy: 0.6724 - val_loss: 0.7165 - val_accuracy: 0.7568
+Epoch 66/70
+405/405 [==============================] - 71s 175ms/step - loss: 0.8784 - accuracy: 0.6730 - val_loss: 0.6995 - val_accuracy: 0.7642
+Epoch 67/70
+405/405 [==============================] - 72s 179ms/step - loss: 0.8836 - accuracy: 0.6808 - val_loss: 0.7431 - val_accuracy: 0.7741
+Epoch 68/70
+405/405 [==============================] - 70s 174ms/step - loss: 0.8577 - accuracy: 0.6768 - val_loss: 0.7210 - val_accuracy: 0.7605
+Epoch 69/70
+405/405 [==============================] - 72s 178ms/step - loss: 0.8508 - accuracy: 0.6786 - val_loss: 0.6953 - val_accuracy: 0.7605
+Epoch 70/70
+405/405 [==============================] - 73s 180ms/step - loss: 0.8752 - accuracy: 0.6771 - val_loss: 0.7026 - val_accuracy: 0.7654
+InceptionV3_weights_1.h5 saved
+history_InceptionV3_weights_1.csv saved
+102/102 [==============================] - 5s 48ms/step - loss: 0.7026 - accuracy: 0.7654
+Score for fold 1: loss of 0.7026407122612; accuracy of 76.54321193695068%
+WARNING:tensorflow:`input_shape` is undefined or non-square, or `rows` is not in [96, 128, 160, 192, 224]. Weights for input shape (224, 224) will be loaded as the default.
+Accuracy Score:  0.7654320987654321
+Precision Score(Class wise):  [0.75510204 0.8034188  0.875      0.68396226 0.75886525]  mean-  0.7752696713226047
+Recall Score(Class wise):  [0.8969697  0.59872611 0.7        0.94155844 0.69480519]  mean-  0.766411889596603
+F1 Score(Class wise):  [0.8199446  0.68613139 0.77777778 0.79234973 0.72542373]  mean-  0.7603254437133115
+Conf Matrix Score(Class wise):
+  [[148   6   1   4   6]
+ [ 31  94  14   7  11]
+ [  5   9 126  23  17]
+ [  8   0   1 145   0]
+ [  4   8   2  33 107]]
+
+MobileNetV2
+
+Downloading data from https://storage.googleapis.com/tensorflow/keras-applications/mobilenet_v2/mobilenet_v2_weights_tf_dim_ordering_tf_kernels_1.0_224_no_top.h5
+9412608/9406464 [==============================] - 0s 0us/step
+9420800/9406464 [==============================] - 0s 0us/step
+Epoch 1/70
+405/405 [==============================] - 72s 165ms/step - loss: 1.2774 - accuracy: 0.4795 - val_loss: 1.6164 - val_accuracy: 0.1901
+Epoch 2/70
+405/405 [==============================] - 65s 159ms/step - loss: 0.9758 - accuracy: 0.6221 - val_loss: 1.6547 - val_accuracy: 0.1901
+Epoch 3/70
+405/405 [==============================] - 65s 160ms/step - loss: 0.9205 - accuracy: 0.6422 - val_loss: 1.6754 - val_accuracy: 0.1901
+Epoch 4/70
+405/405 [==============================] - 64s 159ms/step - loss: 0.8367 - accuracy: 0.6823 - val_loss: 1.7293 - val_accuracy: 0.1901
+Epoch 5/70
+405/405 [==============================] - 65s 159ms/step - loss: 0.8223 - accuracy: 0.6860 - val_loss: 1.7532 - val_accuracy: 0.1901
+Epoch 6/70
+405/405 [==============================] - 64s 159ms/step - loss: 0.7598 - accuracy: 0.7061 - val_loss: 1.8364 - val_accuracy: 0.1901
+Epoch 7/70
+405/405 [==============================] - 65s 159ms/step - loss: 0.7687 - accuracy: 0.6977 - val_loss: 1.8248 - val_accuracy: 0.1901
+Epoch 8/70
+405/405 [==============================] - 65s 159ms/step - loss: 0.7477 - accuracy: 0.7187 - val_loss: 1.9844 - val_accuracy: 0.1901
+Epoch 9/70
+405/405 [==============================] - 64s 158ms/step - loss: 0.7225 - accuracy: 0.7255 - val_loss: 2.0495 - val_accuracy: 0.1901
+Epoch 10/70
+405/405 [==============================] - 63s 157ms/step - loss: 0.7068 - accuracy: 0.7342 - val_loss: 1.9731 - val_accuracy: 0.1901
+Epoch 11/70
+405/405 [==============================] - 63s 157ms/step - loss: 0.6745 - accuracy: 0.7496 - val_loss: 2.3689 - val_accuracy: 0.1901
+Epoch 12/70
+405/405 [==============================] - 64s 158ms/step - loss: 0.6703 - accuracy: 0.7422 - val_loss: 2.3634 - val_accuracy: 0.1901
+Epoch 13/70
+405/405 [==============================] - 64s 159ms/step - loss: 0.6144 - accuracy: 0.7712 - val_loss: 2.9073 - val_accuracy: 0.1901
+Epoch 14/70
+405/405 [==============================] - 65s 160ms/step - loss: 0.5744 - accuracy: 0.7740 - val_loss: 2.6294 - val_accuracy: 0.1901
+Epoch 15/70
+405/405 [==============================] - 65s 160ms/step - loss: 0.5820 - accuracy: 0.7814 - val_loss: 3.0267 - val_accuracy: 0.1901
+Epoch 16/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.5645 - accuracy: 0.7817 - val_loss: 2.6419 - val_accuracy: 0.2827
+Epoch 17/70
+405/405 [==============================] - 63s 155ms/step - loss: 0.5392 - accuracy: 0.8046 - val_loss: 2.8390 - val_accuracy: 0.3049
+Epoch 18/70
+405/405 [==============================] - 64s 157ms/step - loss: 0.5218 - accuracy: 0.8021 - val_loss: 2.9347 - val_accuracy: 0.3506
+Epoch 19/70
+405/405 [==============================] - 64s 157ms/step - loss: 0.5032 - accuracy: 0.8123 - val_loss: 1.2638 - val_accuracy: 0.5481
+Epoch 20/70
+405/405 [==============================] - 64s 157ms/step - loss: 0.4857 - accuracy: 0.8132 - val_loss: 0.5800 - val_accuracy: 0.7741
+Epoch 21/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.4782 - accuracy: 0.8166 - val_loss: 0.4045 - val_accuracy: 0.8506
+Epoch 22/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.4749 - accuracy: 0.8253 - val_loss: 0.4615 - val_accuracy: 0.8469
+Epoch 23/70
+405/405 [==============================] - 63s 155ms/step - loss: 0.4390 - accuracy: 0.8416 - val_loss: 0.3998 - val_accuracy: 0.8630
+Epoch 24/70
+405/405 [==============================] - 64s 157ms/step - loss: 0.4299 - accuracy: 0.8429 - val_loss: 0.6002 - val_accuracy: 0.7815
+Epoch 25/70
+405/405 [==============================] - 64s 157ms/step - loss: 0.4296 - accuracy: 0.8422 - val_loss: 0.5955 - val_accuracy: 0.7840
+Epoch 26/70
+405/405 [==============================] - 64s 157ms/step - loss: 0.4233 - accuracy: 0.8339 - val_loss: 0.3442 - val_accuracy: 0.8864
+Epoch 27/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.4072 - accuracy: 0.8441 - val_loss: 0.3077 - val_accuracy: 0.8963
+Epoch 28/70
+405/405 [==============================] - 63s 157ms/step - loss: 0.3856 - accuracy: 0.8567 - val_loss: 0.3943 - val_accuracy: 0.8691
+Epoch 29/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.3928 - accuracy: 0.8481 - val_loss: 0.3610 - val_accuracy: 0.8765
+Epoch 30/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.4037 - accuracy: 0.8527 - val_loss: 0.3832 - val_accuracy: 0.8543
+Epoch 31/70
+405/405 [==============================] - 64s 157ms/step - loss: 0.3737 - accuracy: 0.8608 - val_loss: 0.3387 - val_accuracy: 0.8728
+Epoch 32/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.3565 - accuracy: 0.8694 - val_loss: 0.5355 - val_accuracy: 0.8111
+Epoch 33/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.3680 - accuracy: 0.8623 - val_loss: 0.5225 - val_accuracy: 0.7728
+Epoch 34/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.3587 - accuracy: 0.8700 - val_loss: 0.3537 - val_accuracy: 0.8741
+Epoch 35/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.3551 - accuracy: 0.8685 - val_loss: 0.3235 - val_accuracy: 0.8840
+Epoch 36/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.3546 - accuracy: 0.8682 - val_loss: 0.3816 - val_accuracy: 0.8543
+Epoch 37/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.3478 - accuracy: 0.8750 - val_loss: 0.2542 - val_accuracy: 0.9074
+Epoch 38/70
+405/405 [==============================] - 64s 157ms/step - loss: 0.3294 - accuracy: 0.8753 - val_loss: 0.2608 - val_accuracy: 0.9309
+Epoch 39/70
+405/405 [==============================] - 63s 155ms/step - loss: 0.3254 - accuracy: 0.8765 - val_loss: 0.3510 - val_accuracy: 0.8778
+Epoch 40/70
+405/405 [==============================] - 63s 155ms/step - loss: 0.3371 - accuracy: 0.8706 - val_loss: 0.4092 - val_accuracy: 0.8519
+Epoch 41/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.3178 - accuracy: 0.8762 - val_loss: 0.3219 - val_accuracy: 0.8753
+Epoch 42/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.3111 - accuracy: 0.8867 - val_loss: 0.3081 - val_accuracy: 0.8877
+Epoch 43/70
+405/405 [==============================] - 63s 155ms/step - loss: 0.3282 - accuracy: 0.8734 - val_loss: 1.4056 - val_accuracy: 0.6691
+Epoch 44/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.3055 - accuracy: 0.8882 - val_loss: 0.3996 - val_accuracy: 0.8420
+Epoch 45/70
+405/405 [==============================] - 64s 157ms/step - loss: 0.3045 - accuracy: 0.8842 - val_loss: 0.2512 - val_accuracy: 0.9062
+Epoch 46/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.2877 - accuracy: 0.8910 - val_loss: 0.2503 - val_accuracy: 0.9148
+Epoch 47/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.2767 - accuracy: 0.9012 - val_loss: 0.2330 - val_accuracy: 0.9111
+Epoch 48/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.2740 - accuracy: 0.8984 - val_loss: 0.2774 - val_accuracy: 0.8901
+Epoch 49/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.2625 - accuracy: 0.9003 - val_loss: 0.2649 - val_accuracy: 0.9086
+Epoch 50/70
+405/405 [==============================] - 63s 155ms/step - loss: 0.2520 - accuracy: 0.9068 - val_loss: 0.2040 - val_accuracy: 0.9284
+Epoch 51/70
+405/405 [==============================] - 63s 155ms/step - loss: 0.2737 - accuracy: 0.8969 - val_loss: 0.2302 - val_accuracy: 0.9222
+Epoch 52/70
+405/405 [==============================] - 63s 155ms/step - loss: 0.2744 - accuracy: 0.8938 - val_loss: 0.6163 - val_accuracy: 0.7889
+Epoch 53/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.2651 - accuracy: 0.9034 - val_loss: 0.2100 - val_accuracy: 0.9272
+Epoch 54/70
+405/405 [==============================] - 63s 155ms/step - loss: 0.2746 - accuracy: 0.8960 - val_loss: 0.3260 - val_accuracy: 0.8840
+Epoch 55/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.2604 - accuracy: 0.9006 - val_loss: 0.2986 - val_accuracy: 0.8975
+Epoch 56/70
+405/405 [==============================] - 63s 155ms/step - loss: 0.2655 - accuracy: 0.9009 - val_loss: 0.2404 - val_accuracy: 0.9222
+Epoch 57/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.2560 - accuracy: 0.9027 - val_loss: 0.1894 - val_accuracy: 0.9346
+Epoch 58/70
+405/405 [==============================] - 63s 155ms/step - loss: 0.2575 - accuracy: 0.8994 - val_loss: 0.1742 - val_accuracy: 0.9272
+Epoch 59/70
+405/405 [==============================] - 63s 155ms/step - loss: 0.2431 - accuracy: 0.9080 - val_loss: 0.2224 - val_accuracy: 0.9235
+Epoch 60/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.2300 - accuracy: 0.9173 - val_loss: 0.1936 - val_accuracy: 0.9346
+Epoch 61/70
+405/405 [==============================] - 63s 155ms/step - loss: 0.2463 - accuracy: 0.9111 - val_loss: 0.2167 - val_accuracy: 0.9173
+Epoch 62/70
+405/405 [==============================] - 63s 155ms/step - loss: 0.2495 - accuracy: 0.9086 - val_loss: 0.2221 - val_accuracy: 0.9284
+Epoch 63/70
+405/405 [==============================] - 63s 155ms/step - loss: 0.2367 - accuracy: 0.9126 - val_loss: 0.1746 - val_accuracy: 0.9321
+Epoch 64/70
+405/405 [==============================] - 63s 155ms/step - loss: 0.2358 - accuracy: 0.9114 - val_loss: 0.1931 - val_accuracy: 0.9222
+Epoch 65/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.2253 - accuracy: 0.9157 - val_loss: 0.2984 - val_accuracy: 0.9000
+Epoch 66/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.2209 - accuracy: 0.9132 - val_loss: 0.2239 - val_accuracy: 0.9123
+Epoch 67/70
+405/405 [==============================] - 63s 155ms/step - loss: 0.2355 - accuracy: 0.9111 - val_loss: 0.8386 - val_accuracy: 0.7543
+Epoch 68/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.2332 - accuracy: 0.9148 - val_loss: 0.1926 - val_accuracy: 0.9198
+Epoch 69/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.2095 - accuracy: 0.9231 - val_loss: 0.1867 - val_accuracy: 0.9284
+Epoch 70/70
+405/405 [==============================] - 63s 156ms/step - loss: 0.2084 - accuracy: 0.9250 - val_loss: 0.2058 - val_accuracy: 0.9272
+/usr/local/lib/python3.9/dist-packages/keras/engine/functional.py:1410: CustomMaskWarning: Custom mask layers require a config and must override get_config. When loading, the custom mask layer must be passed to the custom_objects argument.
+  layer_config = serialize_layer_fn(layer)
+MobileNetV2_weights_1.h5 saved
+history_MobileNetV2_weights_1.csv saved
+102/102 [==============================] - 3s 29ms/step - loss: 0.2058 - accuracy: 0.9272
+Score for fold 1: loss of 0.20578208565711975; accuracy of 92.71605014801025%
+Accuracy Score:  0.9271604938271605
+Precision Score(Class wise):  [0.9689441  0.95275591 0.88421053 0.91666667 0.92682927]  mean-  0.9298812932331664
+Recall Score(Class wise):  [0.94545455 0.77070064 0.93333333 1.         0.98701299]  mean-  0.9273003005487082
+F1 Score(Class wise):  [0.95705521 0.85211268 0.90810811 0.95652174 0.95597484]  mean-  0.9259545161572206
+Conf Matrix Score(Class wise):
+  [[156   5   0   4   0]
+ [  5 121  21   2   8]
+ [  0   0 168   8   4]
+ [  0   0   0 154   0]
+ [  0   1   1   0 152]]
+
+InceptionResNetV2
+
+Downloading data from https://storage.googleapis.com/tensorflow/keras-applications/inception_resnet_v2/inception_resnet_v2_weights_tf_dim_ordering_tf_kernels_notop.h5
+219062272/219055592 [==============================] - 4s 0us/step
+219070464/219055592 [==============================] - 4s 0us/step
+Epoch 1/70
+405/405 [==============================] - 150s 323ms/step - loss: 0.8859 - accuracy: 0.6780 - val_loss: 1.3984 - val_accuracy: 0.4481
+Epoch 2/70
+405/405 [==============================] - 129s 318ms/step - loss: 0.6650 - accuracy: 0.7651 - val_loss: 0.8068 - val_accuracy: 0.7494
+Epoch 3/70
+405/405 [==============================] - 130s 319ms/step - loss: 0.6062 - accuracy: 0.7802 - val_loss: 0.3839 - val_accuracy: 0.8593
+Epoch 4/70
+405/405 [==============================] - 128s 316ms/step - loss: 0.5730 - accuracy: 0.8033 - val_loss: 0.3492 - val_accuracy: 0.8753
+Epoch 5/70
+405/405 [==============================] - 128s 315ms/step - loss: 0.5056 - accuracy: 0.8185 - val_loss: 0.3454 - val_accuracy: 0.8951
+Epoch 6/70
+405/405 [==============================] - 129s 319ms/step - loss: 0.4646 - accuracy: 0.8327 - val_loss: 0.2644 - val_accuracy: 0.9099
+Epoch 7/70
+405/405 [==============================] - 128s 315ms/step - loss: 0.4442 - accuracy: 0.8413 - val_loss: 0.2727 - val_accuracy: 0.9000
+Epoch 8/70
+405/405 [==============================] - 128s 316ms/step - loss: 0.4250 - accuracy: 0.8466 - val_loss: 0.2751 - val_accuracy: 0.9037
+Epoch 9/70
+405/405 [==============================] - 129s 320ms/step - loss: 0.4087 - accuracy: 0.8552 - val_loss: 0.2815 - val_accuracy: 0.9136
+Epoch 10/70
+405/405 [==============================] - 128s 315ms/step - loss: 0.4145 - accuracy: 0.8481 - val_loss: 0.3313 - val_accuracy: 0.8951
+Epoch 11/70
+405/405 [==============================] - 128s 317ms/step - loss: 0.4030 - accuracy: 0.8537 - val_loss: 0.3068 - val_accuracy: 0.9025
+Epoch 12/70
+405/405 [==============================] - 131s 323ms/step - loss: 0.3826 - accuracy: 0.8601 - val_loss: 0.2564 - val_accuracy: 0.9173
+Epoch 13/70
+405/405 [==============================] - 128s 316ms/step - loss: 0.3759 - accuracy: 0.8638 - val_loss: 0.2123 - val_accuracy: 0.9235
+Epoch 14/70
+405/405 [==============================] - 128s 317ms/step - loss: 0.3687 - accuracy: 0.8672 - val_loss: 0.2383 - val_accuracy: 0.9074
+Epoch 15/70
+405/405 [==============================] - 130s 320ms/step - loss: 0.3397 - accuracy: 0.8818 - val_loss: 0.2139 - val_accuracy: 0.9222
+Epoch 16/70
+405/405 [==============================] - 129s 317ms/step - loss: 0.3391 - accuracy: 0.8796 - val_loss: 0.2166 - val_accuracy: 0.9185
+Epoch 17/70
+405/405 [==============================] - 129s 318ms/step - loss: 0.3119 - accuracy: 0.8864 - val_loss: 0.2309 - val_accuracy: 0.9173
+Epoch 18/70
+405/405 [==============================] - 129s 317ms/step - loss: 0.3102 - accuracy: 0.8858 - val_loss: 0.2020 - val_accuracy: 0.9296
+Epoch 19/70
+405/405 [==============================] - 128s 316ms/step - loss: 0.3142 - accuracy: 0.8929 - val_loss: 0.2229 - val_accuracy: 0.9160
+Epoch 20/70
+405/405 [==============================] - 128s 316ms/step - loss: 0.2619 - accuracy: 0.9009 - val_loss: 0.2465 - val_accuracy: 0.9160
+Epoch 21/70
+405/405 [==============================] - 129s 318ms/step - loss: 0.2650 - accuracy: 0.9031 - val_loss: 0.1937 - val_accuracy: 0.9296
+Epoch 22/70
+405/405 [==============================] - 128s 316ms/step - loss: 0.2859 - accuracy: 0.9006 - val_loss: 0.3511 - val_accuracy: 0.8741
+Epoch 23/70
+405/405 [==============================] - 128s 316ms/step - loss: 0.2766 - accuracy: 0.8987 - val_loss: 0.2099 - val_accuracy: 0.9272
+Epoch 24/70
+405/405 [==============================] - 129s 320ms/step - loss: 0.2448 - accuracy: 0.9095 - val_loss: 0.2237 - val_accuracy: 0.9136
+Epoch 25/70
+405/405 [==============================] - 128s 315ms/step - loss: 0.2477 - accuracy: 0.9139 - val_loss: 0.2169 - val_accuracy: 0.9099
+Epoch 26/70
+405/405 [==============================] - 127s 315ms/step - loss: 0.2387 - accuracy: 0.9139 - val_loss: 0.1841 - val_accuracy: 0.9383
+Epoch 27/70
+405/405 [==============================] - 129s 318ms/step - loss: 0.2340 - accuracy: 0.9142 - val_loss: 0.1766 - val_accuracy: 0.9358
+Epoch 28/70
+405/405 [==============================] - 129s 318ms/step - loss: 0.2343 - accuracy: 0.9126 - val_loss: 0.1690 - val_accuracy: 0.9333
+Epoch 29/70
+405/405 [==============================] - 128s 315ms/step - loss: 0.2243 - accuracy: 0.9185 - val_loss: 0.2256 - val_accuracy: 0.9272
+Epoch 30/70
+405/405 [==============================] - 128s 317ms/step - loss: 0.2143 - accuracy: 0.9253 - val_loss: 0.1903 - val_accuracy: 0.9358
+Epoch 31/70
+405/405 [==============================] - 130s 321ms/step - loss: 0.2265 - accuracy: 0.9191 - val_loss: 0.1678 - val_accuracy: 0.9457
+Epoch 32/70
+405/405 [==============================] - 129s 318ms/step - loss: 0.2126 - accuracy: 0.9259 - val_loss: 0.1786 - val_accuracy: 0.9370
+Epoch 33/70
+405/405 [==============================] - 129s 318ms/step - loss: 0.1898 - accuracy: 0.9287 - val_loss: 0.1774 - val_accuracy: 0.9432
+Epoch 34/70
+405/405 [==============================] - 130s 320ms/step - loss: 0.1906 - accuracy: 0.9268 - val_loss: 0.1750 - val_accuracy: 0.9383
+Epoch 35/70
+405/405 [==============================] - 128s 316ms/step - loss: 0.2001 - accuracy: 0.9293 - val_loss: 0.1754 - val_accuracy: 0.9444
+Epoch 36/70
+405/405 [==============================] - 128s 317ms/step - loss: 0.2042 - accuracy: 0.9299 - val_loss: 0.1682 - val_accuracy: 0.9432
+Epoch 37/70
+405/405 [==============================] - 129s 317ms/step - loss: 0.1824 - accuracy: 0.9333 - val_loss: 0.1393 - val_accuracy: 0.9580
+Epoch 38/70
+405/405 [==============================] - 128s 317ms/step - loss: 0.1734 - accuracy: 0.9349 - val_loss: 0.1849 - val_accuracy: 0.9358
+Epoch 39/70
+405/405 [==============================] - 128s 316ms/step - loss: 0.1639 - accuracy: 0.9392 - val_loss: 0.1841 - val_accuracy: 0.9420
+Epoch 40/70
+405/405 [==============================] - 129s 319ms/step - loss: 0.1729 - accuracy: 0.9386 - val_loss: 0.1485 - val_accuracy: 0.9531
+Epoch 41/70
+405/405 [==============================] - 129s 319ms/step - loss: 0.1773 - accuracy: 0.9398 - val_loss: 0.1764 - val_accuracy: 0.9395
+Epoch 42/70
+405/405 [==============================] - 128s 317ms/step - loss: 0.1513 - accuracy: 0.9487 - val_loss: 0.1715 - val_accuracy: 0.9407
+Epoch 43/70
+405/405 [==============================] - 132s 327ms/step - loss: 0.1514 - accuracy: 0.9447 - val_loss: 0.1672 - val_accuracy: 0.9395
+Epoch 44/70
+405/405 [==============================] - 131s 322ms/step - loss: 0.1524 - accuracy: 0.9457 - val_loss: 0.1838 - val_accuracy: 0.9395
+Epoch 45/70
+405/405 [==============================] - 131s 322ms/step - loss: 0.1536 - accuracy: 0.9423 - val_loss: 0.1715 - val_accuracy: 0.9481
+Epoch 46/70
+405/405 [==============================] - 130s 321ms/step - loss: 0.1414 - accuracy: 0.9466 - val_loss: 0.1304 - val_accuracy: 0.9506
+Epoch 47/70
+405/405 [==============================] - 129s 318ms/step - loss: 0.1390 - accuracy: 0.9515 - val_loss: 0.1195 - val_accuracy: 0.9617
+Epoch 48/70
+405/405 [==============================] - 129s 320ms/step - loss: 0.1569 - accuracy: 0.9413 - val_loss: 0.1848 - val_accuracy: 0.9432
+Epoch 49/70
+405/405 [==============================] - 129s 318ms/step - loss: 0.1443 - accuracy: 0.9494 - val_loss: 0.1566 - val_accuracy: 0.9444
+Epoch 50/70
+405/405 [==============================] - 129s 318ms/step - loss: 0.1230 - accuracy: 0.9565 - val_loss: 0.1647 - val_accuracy: 0.9395
+Epoch 51/70
+405/405 [==============================] - 129s 317ms/step - loss: 0.1489 - accuracy: 0.9444 - val_loss: 0.1821 - val_accuracy: 0.9346
+Epoch 52/70
+405/405 [==============================] - 129s 318ms/step - loss: 0.1302 - accuracy: 0.9540 - val_loss: 0.1620 - val_accuracy: 0.9481
+Epoch 53/70
+405/405 [==============================] - 128s 315ms/step - loss: 0.1425 - accuracy: 0.9506 - val_loss: 0.1838 - val_accuracy: 0.9420
+Epoch 54/70
+405/405 [==============================] - 128s 316ms/step - loss: 0.1316 - accuracy: 0.9518 - val_loss: 0.1340 - val_accuracy: 0.9481
+Epoch 55/70
+405/405 [==============================] - 128s 316ms/step - loss: 0.1115 - accuracy: 0.9574 - val_loss: 0.1330 - val_accuracy: 0.9556
+Epoch 56/70
+405/405 [==============================] - 130s 320ms/step - loss: 0.1367 - accuracy: 0.9518 - val_loss: 0.1418 - val_accuracy: 0.9457
+Epoch 57/70
+405/405 [==============================] - 128s 316ms/step - loss: 0.1211 - accuracy: 0.9562 - val_loss: 0.1707 - val_accuracy: 0.9457
+Epoch 58/70
+405/405 [==============================] - 128s 316ms/step - loss: 0.1376 - accuracy: 0.9497 - val_loss: 0.1336 - val_accuracy: 0.9605
+Epoch 59/70
+405/405 [==============================] - 129s 317ms/step - loss: 0.1323 - accuracy: 0.9500 - val_loss: 0.1730 - val_accuracy: 0.9395
+Epoch 60/70
+405/405 [==============================] - 130s 319ms/step - loss: 0.1212 - accuracy: 0.9583 - val_loss: 0.1525 - val_accuracy: 0.9481
+Epoch 61/70
+405/405 [==============================] - 129s 317ms/step - loss: 0.1087 - accuracy: 0.9614 - val_loss: 0.1546 - val_accuracy: 0.9556
+Epoch 62/70
+405/405 [==============================] - 129s 318ms/step - loss: 0.1043 - accuracy: 0.9626 - val_loss: 0.1364 - val_accuracy: 0.9506
+Epoch 63/70
+405/405 [==============================] - 130s 320ms/step - loss: 0.0985 - accuracy: 0.9670 - val_loss: 0.1789 - val_accuracy: 0.9457
+Epoch 64/70
+405/405 [==============================] - 129s 319ms/step - loss: 0.1199 - accuracy: 0.9562 - val_loss: 0.1501 - val_accuracy: 0.9556
+Epoch 65/70
+405/405 [==============================] - 129s 318ms/step - loss: 0.1097 - accuracy: 0.9586 - val_loss: 0.1589 - val_accuracy: 0.9494
+Epoch 66/70
+405/405 [==============================] - 129s 320ms/step - loss: 0.0959 - accuracy: 0.9636 - val_loss: 0.1904 - val_accuracy: 0.9420
+Epoch 67/70
+405/405 [==============================] - 129s 318ms/step - loss: 0.1082 - accuracy: 0.9605 - val_loss: 0.1439 - val_accuracy: 0.9568
+Epoch 68/70
+405/405 [==============================] - 129s 318ms/step - loss: 0.0937 - accuracy: 0.9648 - val_loss: 0.1350 - val_accuracy: 0.9506
+Epoch 69/70
+405/405 [==============================] - 129s 319ms/step - loss: 0.0854 - accuracy: 0.9651 - val_loss: 0.1740 - val_accuracy: 0.9531
+Epoch 70/70
+405/405 [==============================] - 130s 320ms/step - loss: 0.1016 - accuracy: 0.9611 - val_loss: 0.1194 - val_accuracy: 0.9580
+InceptionResNetV2_weights_1.h5 saved
+history_InceptionResNetV2_weights_1.csv saved
+102/102 [==============================] - 9s 89ms/step - loss: 0.1194 - accuracy: 0.9580
+Score for fold 1: loss of 0.11938317120075226; accuracy of 95.80246806144714%
+Accuracy Score:  0.9580246913580247
+Precision Score(Class wise):  [0.96932515 0.92810458 0.93478261 0.99354839 0.96774194]  mean-  0.9587005319627859
+Recall Score(Class wise):  [0.95757576 0.9044586  0.95555556 1.         0.97402597]  mean-  0.9583231771766803
+F1 Score(Class wise):  [0.96341463 0.91612903 0.94505495 0.99676375 0.97087379]  mean-  0.9584472303824849
+Conf Matrix Score(Class wise):
+  [[158   5   2   0   0]
+ [  5 142   8   1   1]
+ [  0   4 172   0   4]
+ [  0   0   0 154   0]
+ [  0   2   2   0 150]]
+[2.18771555 0.         0.         0.         0.        ]
+[2.18771555 1.27804276 0.         0.         0.        ]
+[2.18771555 1.27804276 0.39100398 0.         0.        ]
+[2.18771555 1.27804276 0.39100398 2.02368873 0.        ]
+[2.18771555 1.27804276 0.39100398 2.02368873 0.39704542]
+[1.56383034 0.         0.         0.         0.        ]
+[1.56383034 2.07770497 0.         0.         0.        ]
+[1.56383034 2.07770497 2.06641755 0.         0.        ]
+[1.56383034 2.07770497 2.06641755 0.02752903 0.        ]
+[1.56383034 2.07770497 2.06641755 0.02752903 1.81769577]
+[2.18964223 0.         0.         0.         0.        ]
+[2.18964223 2.14408993 0.         0.         0.        ]
+[2.18964223 2.14408993 2.07665617 0.         0.        ]
+[2.18964223 2.14408993 2.07665617 1.48587648 0.        ]
+[2.18964223 2.14408993 2.07665617 1.48587648 0.03712809]
+[1.35444766 0.         0.         0.         0.        ]
+[1.35444766 0.05629508 0.         0.         0.        ]
+[1.35444766 0.05629508 1.62969636 0.         0.        ]
+[1.35444766 0.05629508 1.62969636 1.1773491  0.        ]
+[1.35444766 0.05629508 1.62969636 1.1773491  1.77678172]
+[2.18289028 0.         0.         0.         0.        ]
+[2.18289028 2.10415545 0.         0.         0.        ]
+[2.18289028 2.10415545 2.16881179 0.         0.        ]
+[2.18289028 2.10415545 2.16881179 1.53282501 0.        ]
+[2.18289028 2.10415545 2.16881179 1.53282501 0.02780012]
+[1.78091014 0.         0.         0.         0.        ]
+[1.78091014 0.04881914 0.         0.         0.        ]
+[1.78091014 0.04881914 1.16851462 0.         0.        ]
+[1.78091014 0.04881914 1.16851462 2.14152323 0.        ]
+[1.78091014 0.04881914 1.16851462 2.14152323 2.07930797]
+[2.11616733 0.         0.         0.         0.        ]
+[2.11616733 1.86270266 0.         0.         0.        ]
+[2.11616733 1.86270266 0.1082139  0.         0.        ]
+[2.11616733 1.86270266 0.1082139  1.49174173 0.        ]
+[2.11616733 1.86270266 0.1082139  1.49174173 1.58352068]
+[1.88237168 0.         0.         0.         0.        ]
+[1.88237168 0.85555    0.         0.         0.        ]
+[1.88237168 0.85555    0.58835035 0.         0.        ]
+[1.88237168 0.85555    0.58835035 2.13151539 0.        ]
+[1.88237168 0.85555    0.58835035 2.13151539 0.02985987]
+[1.81363321 0.         0.         0.         0.        ]
+[1.81363321 0.03519659 0.         0.         0.        ]
+[1.81363321 0.03519659 0.85646768 0.         0.        ]
+[1.81363321 0.03519659 0.85646768 2.18494449 0.        ]
+[1.81363321 0.03519659 0.85646768 2.18494449 2.12268631]
+[2.01990327 0.         0.         0.         0.        ]
+[2.01990327 0.01966242 0.         0.         0.        ]
+[2.01990327 0.01966242 0.06965317 0.         0.        ]
+[2.01990327 0.01966242 0.06965317 2.00727864 0.        ]
+[2.01990327 0.01966242 0.06965317 2.00727864 1.75407702]
+[2.04010722 0.         0.         0.         0.        ]
+[2.04010722 0.07938681 0.         0.         0.        ]
+[2.04010722 0.07938681 0.80668859 0.         0.        ]
+[2.04010722 0.07938681 0.80668859 1.98594957 0.        ]
+[2.04010722 0.07938681 0.80668859 1.98594957 1.74443325]
+[1.50869459 0.         0.         0.         0.        ]
+[1.50869459 0.02760133 0.         0.         0.        ]
+[1.50869459 0.02760133 0.97584382 0.         0.        ]
+[1.50869459 0.02760133 0.97584382 1.56268708 0.        ]
+[1.50869459 0.02760133 0.97584382 1.56268708 1.91704819]
+[1.05444019 0.         0.         0.         0.        ]
+[1.05444019 0.09898867 0.         0.         0.        ]
+[1.05444019 0.09898867 1.30582456 0.         0.        ]
+[1.05444019 0.09898867 1.30582456 2.17073216 0.        ]
+[1.05444019 0.09898867 1.30582456 2.17073216 1.89503032]
+[2.18600496 0.         0.         0.         0.        ]
+[2.18600496 2.07512808 0.         0.         0.        ]
+[2.18600496 2.07512808 2.03030576 0.         0.        ]
+[2.18600496 2.07512808 2.03030576 1.50719166 0.        ]
+[2.18600496 2.07512808 2.03030576 1.50719166 0.0380662 ]
+[2.10882586 0.         0.         0.         0.        ]
+[2.10882586 0.67860481 0.         0.         0.        ]
+[2.10882586 0.67860481 0.23367778 0.         0.        ]
+[2.10882586 0.67860481 0.23367778 2.14206269 0.        ]
+[2.10882586 0.67860481 0.23367778 2.14206269 2.18297523]
+[1.40709009 0.         0.         0.         0.        ]
+[1.40709009 0.08700315 0.         0.         0.        ]
+[1.40709009 0.08700315 1.32670637 0.         0.        ]
+[1.40709009 0.08700315 1.32670637 2.1185571  0.        ]
+[1.40709009 0.08700315 1.32670637 2.1185571  2.1506143 ]
+[0.8409018 0.        0.        0.        0.       ]
+[0.8409018 0.5336569 0.        0.        0.       ]
+[0.8409018  0.5336569  0.92154774 0.         0.        ]
+[0.8409018  0.5336569  0.92154774 0.70640389 0.        ]
+[0.8409018  0.5336569  0.92154774 0.70640389 0.95000915]
+[0.29078972 0.         0.         0.         0.        ]
+[0.29078972 0.03117246 0.         0.         0.        ]
+[0.29078972 0.03117246 1.59042136 0.         0.        ]
+[0.29078972 0.03117246 1.59042136 2.0853851  0.        ]
+[0.29078972 0.03117246 1.59042136 2.0853851  2.17084505]
+[2.17382818 0.         0.         0.         0.        ]
+[2.17382818 1.61114806 0.         0.         0.        ]
+[2.17382818 1.61114806 0.04975697 0.         0.        ]
+[2.17382818 1.61114806 0.04975697 1.56948406 0.        ]
+[2.17382818 1.61114806 0.04975697 1.56948406 0.75849459]
+[0.03227686 0.         0.         0.         0.        ]
+[0.03227686 1.41355626 0.         0.         0.        ]
+[0.03227686 1.41355626 2.10493568 0.         0.        ]
+[0.03227686 1.41355626 2.10493568 1.41640645 0.        ]
+[0.03227686 1.41355626 2.10493568 1.41640645 2.1250209 ]
+[1.37745118 0.         0.         0.         0.        ]
+[1.37745118 0.03065896 0.         0.         0.        ]
+[1.37745118 0.03065896 2.01270635 0.         0.        ]
+[1.37745118 0.03065896 2.01270635 2.18335564 0.        ]
+[1.37745118 0.03065896 2.01270635 2.18335564 1.04864257]
+[2.16448901 0.         0.         0.         0.        ]
+[2.16448901 0.95390634 0.         0.         0.        ]
+[2.16448901 0.95390634 0.65315204 0.         0.        ]
+[2.16448901 0.95390634 0.65315204 0.68485207 0.        ]
+[2.16448901 0.95390634 0.65315204 0.68485207 1.31263078]
+[1.14716644 0.         0.         0.         0.        ]
+[1.14716644 1.16557175 0.         0.         0.        ]
+[1.14716644 1.16557175 2.01195068 0.         0.        ]
+[1.14716644 1.16557175 2.01195068 2.16714111 0.        ]
+[1.14716644 1.16557175 2.01195068 2.16714111 1.17903812]
+[1.7298809 0.        0.        0.        0.       ]
+[1.7298809  1.46407267 0.         0.         0.        ]
+[1.7298809  1.46407267 0.06611615 0.         0.        ]
+[1.7298809  1.46407267 0.06611615 1.91492489 0.        ]
+[1.7298809  1.46407267 0.06611615 1.91492489 2.09421089]
+[2.1663273 0.        0.        0.        0.       ]
+[2.1663273 0.7735402 0.        0.        0.       ]
+[2.1663273  0.7735402  0.13081476 0.         0.        ]
+[2.1663273  0.7735402  0.13081476 1.82039375 0.        ]
+[2.1663273  0.7735402  0.13081476 1.82039375 1.5423831 ]
+[2.18700449 0.         0.         0.         0.        ]
+[2.18700449 1.0900809  0.         0.         0.        ]
+[2.18700449 1.0900809  0.06699349 0.         0.        ]
+[2.18700449 1.0900809  0.06699349 1.37270233 0.        ]
+[2.18700449 1.0900809  0.06699349 1.37270233 1.79625769]
+[1.93771862 0.         0.         0.         0.        ]
+[1.93771862 1.81798845 0.         0.         0.        ]
+[1.93771862 1.81798845 0.26224616 0.         0.        ]
+[1.93771862 1.81798845 0.26224616 1.04333728 0.        ]
+[1.93771862 1.81798845 0.26224616 1.04333728 0.95342348]
+[2.11511072 0.         0.         0.         0.        ]
+[2.11511072 0.04380876 0.         0.         0.        ]
+[2.11511072 0.04380876 1.03399161 0.         0.        ]
+[2.11511072 0.04380876 1.03399161 2.18703914 0.        ]
+[2.11511072 0.04380876 1.03399161 2.18703914 0.91616385]
+[1.36654341 0.         0.         0.         0.        ]
+[1.36654341 0.05627114 0.         0.         0.        ]
+[1.36654341 0.05627114 1.12007408 0.         0.        ]
+[1.36654341 0.05627114 1.12007408 2.12442666 0.        ]
+[1.36654341 0.05627114 1.12007408 2.12442666 2.15012481]
+[2.04084999 0.         0.         0.         0.        ]
+[2.04084999 0.97967245 0.         0.         0.        ]
+[2.04084999 0.97967245 0.01612125 0.         0.        ]
+[2.04084999 0.97967245 0.01612125 1.9635485  0.        ]
+[2.04084999 0.97967245 0.01612125 1.9635485  1.17862911]
+[2.12981488 0.         0.         0.         0.        ]
+[2.12981488 0.79621966 0.         0.         0.        ]
+[2.12981488 0.79621966 0.26877728 0.         0.        ]
+[2.12981488 0.79621966 0.26877728 0.76554337 0.        ]
+[2.12981488 0.79621966 0.26877728 0.76554337 1.44793231]
+[2.09738183 0.         0.         0.         0.        ]
+[2.09738183 0.24947199 0.         0.         0.        ]
+[2.09738183 0.24947199 0.07150712 0.         0.        ]
+[2.09738183 0.24947199 0.07150712 1.49748239 0.        ]
+[2.09738183 0.24947199 0.07150712 1.49748239 1.44702588]
+[1.88599832 0.         0.         0.         0.        ]
+[1.88599832 1.70595967 0.         0.         0.        ]
+[1.88599832 1.70595967 2.12030055 0.         0.        ]
+[1.88599832 1.70595967 2.12030055 1.69512236 0.        ]
+[1.88599832 1.70595967 2.12030055 1.69512236 0.08562807]
+[1.65166015 0.         0.         0.         0.        ]
+[1.65166015 0.08738458 0.         0.         0.        ]
+[1.65166015 0.08738458 0.02194513 0.         0.        ]
+[1.65166015 0.08738458 0.02194513 1.58337257 0.        ]
+[1.65166015 0.08738458 0.02194513 1.58337257 1.90970235]
+[0.73512197 0.         0.         0.         0.        ]
+[0.73512197 0.14676177 0.         0.         0.        ]
+[0.73512197 0.14676177 1.53791923 0.         0.        ]
+[0.73512197 0.14676177 1.53791923 1.90737068 0.        ]
+[0.73512197 0.14676177 1.53791923 1.90737068 1.4220631 ]
+[2.18707599 0.         0.         0.         0.        ]
+[2.18707599 2.15995334 0.         0.         0.        ]
+[2.18707599 2.15995334 2.15438885 0.         0.        ]
+[2.18707599 2.15995334 2.15438885 1.34136082 0.        ]
+[2.18707599 2.15995334 2.15438885 1.34136082 0.07276277]
+[1.8109659 0.        0.        0.        0.       ]
+[1.8109659  1.40157412 0.         0.         0.        ]
+[1.8109659  1.40157412 1.74410589 0.         0.        ]
+[1.8109659  1.40157412 1.74410589 1.7797834  0.        ]
+[1.8109659  1.40157412 1.74410589 1.7797834  0.14857407]
+[2.16472181 0.         0.         0.         0.        ]
+[2.16472181 0.94242636 0.         0.         0.        ]
+[2.16472181 0.94242636 1.40831467 0.         0.        ]
+[2.16472181 0.94242636 1.40831467 0.71331782 0.        ]
+[2.16472181 0.94242636 1.40831467 0.71331782 0.1190735 ]
+[1.0402748 0.        0.        0.        0.       ]
+[1.0402748  0.54678517 0.         0.         0.        ]
+[1.0402748  0.54678517 0.90654574 0.         0.        ]
+[1.0402748  0.54678517 0.90654574 2.17867533 0.        ]
+[1.0402748  0.54678517 0.90654574 2.17867533 0.0580942 ]
+[2.18352639 0.         0.         0.         0.        ]
+[2.18352639 2.09980808 0.         0.         0.        ]
+[2.18352639 2.09980808 2.08879073 0.         0.        ]
+[2.18352639 2.09980808 2.08879073 1.52265403 0.        ]
+[2.18352639 2.09980808 2.08879073 1.52265403 0.03173629]
+[0.04121661 0.         0.         0.         0.        ]
+[0.04121661 1.66819404 0.         0.         0.        ]
+[0.04121661 1.66819404 1.78045843 0.         0.        ]
+[0.04121661 1.66819404 1.78045843 1.07517013 0.        ]
+[0.04121661 1.66819404 1.78045843 1.07517013 1.39549162]
+[0.02299199 0.         0.         0.         0.        ]
+[0.02299199 0.48390624 0.         0.         0.        ]
+[0.02299199 0.48390624 2.06164538 0.         0.        ]
+[0.02299199 0.48390624 2.06164538 1.57232616 0.        ]
+[0.02299199 0.48390624 2.06164538 1.57232616 2.18349888]
+[2.14542079 0.         0.         0.         0.        ]
+[2.14542079 1.45191706 0.         0.         0.        ]
+[2.14542079 1.45191706 0.04364179 0.         0.        ]
+[2.14542079 1.45191706 0.04364179 2.17938342 0.        ]
+[2.14542079 1.45191706 0.04364179 2.17938342 2.1272724 ]
+[2.18057211 0.         0.         0.         0.        ]
+[2.18057211 1.38778244 0.         0.         0.        ]
+[2.18057211 1.38778244 0.10779108 0.         0.        ]
+[2.18057211 1.38778244 0.10779108 1.24190617 0.        ]
+[2.18057211 1.38778244 0.10779108 1.24190617 1.17620874]
+[2.07212113 0.         0.         0.         0.        ]
+[2.07212113 0.55339065 0.         0.         0.        ]
+[2.07212113 0.55339065 0.39685325 0.         0.        ]
+[2.07212113 0.55339065 0.39685325 1.33653203 0.        ]
+[2.07212113 0.55339065 0.39685325 1.33653203 0.30179111]
+[2.17310745 0.         0.         0.         0.        ]
+[2.17310745 1.33449916 0.         0.         0.        ]
+[2.17310745 1.33449916 0.08326132 0.         0.        ]
+[2.17310745 1.33449916 0.08326132 1.55153192 0.        ]
+[2.17310745 1.33449916 0.08326132 1.55153192 1.79092648]
+[1.74786192 0.         0.         0.         0.        ]
+[1.74786192 0.69882451 0.         0.         0.        ]
+[1.74786192 0.69882451 0.09335726 0.         0.        ]
+[1.74786192 0.69882451 0.09335726 1.12199291 0.        ]
+[1.74786192 0.69882451 0.09335726 1.12199291 0.94394741]
+[1.74348541 0.         0.         0.         0.        ]
+[1.74348541 0.20445673 0.         0.         0.        ]
+[1.74348541 0.20445673 0.22271373 0.         0.        ]
+[1.74348541 0.20445673 0.22271373 1.4771132  0.        ]
+[1.74348541 0.20445673 0.22271373 1.4771132  0.82982744]
+[1.78057486 0.         0.         0.         0.        ]
+[1.78057486 0.50688358 0.         0.         0.        ]
+[1.78057486 0.50688358 0.0865071  0.         0.        ]
+[1.78057486 0.50688358 0.0865071  2.11708735 0.        ]
+[1.78057486 0.50688358 0.0865071  2.11708735 2.00747624]
+[0.21556112 0.         0.         0.         0.        ]
+[0.21556112 0.13590353 0.         0.         0.        ]
+[0.21556112 0.13590353 2.04390521 0.         0.        ]
+[0.21556112 0.13590353 2.04390521 2.01891863 0.        ]
+[0.21556112 0.13590353 2.04390521 2.01891863 1.85456309]
+[0.01631959 0.         0.         0.         0.        ]
+[0.01631959 1.54532452 0.         0.         0.        ]
+[0.01631959 1.54532452 2.16227295 0.         0.        ]
+[0.01631959 1.54532452 2.16227295 1.9592469  0.        ]
+[0.01631959 1.54532452 2.16227295 1.9592469  2.0624328 ]
+[1.7100176 0.        0.        0.        0.       ]
+[1.7100176  1.84922864 0.         0.         0.        ]
+[1.7100176  1.84922864 2.12500463 0.         0.        ]
+[1.7100176  1.84922864 2.12500463 0.07436243 0.        ]
+[1.7100176  1.84922864 2.12500463 0.07436243 1.84712917]
+[0.27635603 0.         0.         0.         0.        ]
+[0.27635603 0.98222048 0.         0.         0.        ]
+[0.27635603 0.98222048 1.01119224 0.         0.        ]
+[0.27635603 0.98222048 1.01119224 0.74427764 0.        ]
+[0.27635603 0.98222048 1.01119224 0.74427764 0.89854801]
+[0.45371073 0.         0.         0.         0.        ]
+[0.45371073 0.76238427 0.         0.         0.        ]
+[0.45371073 0.76238427 1.40212014 0.         0.        ]
+[0.45371073 0.76238427 1.40212014 0.94153685 0.        ]
+[0.45371073 0.76238427 1.40212014 0.94153685 1.96090902]
+[1.70532326 0.         0.         0.         0.        ]
+[1.70532326 2.0847145  0.         0.         0.        ]
+[1.70532326 2.0847145  2.09703843 0.         0.        ]
+[1.70532326 2.0847145  2.09703843 0.99335519 0.        ]
+[1.70532326 2.0847145  2.09703843 0.99335519 0.17041714]
+[2.16401969 0.         0.         0.         0.        ]
+[2.16401969 1.46985603 0.         0.         0.        ]
+[2.16401969 1.46985603 0.27666201 0.         0.        ]
+[2.16401969 1.46985603 0.27666201 0.81674917 0.        ]
+[2.16401969 1.46985603 0.27666201 0.81674917 1.24476464]
+[0.14719156 0.         0.         0.         0.        ]
+[0.14719156 1.89997158 0.         0.         0.        ]
+[0.14719156 1.89997158 1.41025225 0.         0.        ]
+[0.14719156 1.89997158 1.41025225 2.08321778 0.        ]
+[0.14719156 1.89997158 1.41025225 2.08321778 1.36981981]
+[1.55456958 0.         0.         0.         0.        ]
+[1.55456958 1.93990185 0.         0.         0.        ]
+[1.55456958 1.93990185 2.06256679 0.         0.        ]
+[1.55456958 1.93990185 2.06256679 1.80142658 0.        ]
+[1.55456958 1.93990185 2.06256679 1.80142658 0.16339353]
+[2.18710977 0.         0.         0.         0.        ]
+[2.18710977 1.94466553 0.         0.         0.        ]
+[2.18710977 1.94466553 0.20069642 0.         0.        ]
+[2.18710977 1.94466553 0.20069642 1.02287315 0.        ]
+[2.18710977 1.94466553 0.20069642 1.02287315 1.46971618]
+[2.099043 0.       0.       0.       0.      ]
+[2.099043   1.36785602 0.         0.         0.        ]
+[2.099043   1.36785602 1.91418822 0.         0.        ]
+[2.099043   1.36785602 1.91418822 0.98657031 0.        ]
+[2.099043   1.36785602 1.91418822 0.98657031 0.18259312]
+[1.54372731 0.         0.         0.         0.        ]
+[1.54372731 1.57876921 0.         0.         0.        ]
+[1.54372731 1.57876921 2.11972655 0.         0.        ]
+[1.54372731 1.57876921 2.11972655 2.05169116 0.        ]
+[1.54372731 1.57876921 2.11972655 2.05169116 0.18396807]
+[0.21041632 0.         0.         0.         0.        ]
+[0.21041632 0.70301594 0.         0.         0.        ]
+[0.21041632 0.70301594 2.04682612 0.         0.        ]
+[0.21041632 0.70301594 2.04682612 1.02095418 0.        ]
+[0.21041632 0.70301594 2.04682612 1.02095418 1.24247075]
+[1.13100656 0.         0.         0.         0.        ]
+[1.13100656 0.02477948 0.         0.         0.        ]
+[1.13100656 0.02477948 2.1604023  0.         0.        ]
+[1.13100656 0.02477948 2.1604023  2.19380437 0.        ]
+[1.13100656 0.02477948 2.1604023  2.19380437 1.49811534]
+[2.14162905 0.         0.         0.         0.        ]
+[2.14162905 0.41391968 0.         0.         0.        ]
+[2.14162905 0.41391968 1.11462936 0.         0.        ]
+[2.14162905 0.41391968 1.11462936 1.26659993 0.        ]
+[2.14162905 0.41391968 1.11462936 1.26659993 1.16437598]
+[2.00202698 0.         0.         0.         0.        ]
+[2.00202698 0.53589943 0.         0.         0.        ]
+[2.00202698 0.53589943 0.44638751 0.         0.        ]
+[2.00202698 0.53589943 0.44638751 1.20521201 0.        ]
+[2.00202698 0.53589943 0.44638751 1.20521201 1.27868792]
+[2.18249853 0.         0.         0.         0.        ]
+[2.18249853 1.91754962 0.         0.         0.        ]
+[2.18249853 1.91754962 0.08479741 0.         0.        ]
+[2.18249853 1.91754962 0.08479741 1.36159628 0.        ]
+[2.18249853 1.91754962 0.08479741 1.36159628 1.74465796]
+[0.83923696 0.         0.         0.         0.        ]
+[0.83923696 0.42334163 0.         0.         0.        ]
+[0.83923696 0.42334163 1.52305091 0.         0.        ]
+[0.83923696 0.42334163 1.52305091 1.52828198 0.        ]
+[0.83923696 0.42334163 1.52305091 1.52828198 1.07979544]
+[1.69266391 0.         0.         0.         0.        ]
+[1.69266391 1.68286866 0.         0.         0.        ]
+[1.69266391 1.68286866 0.15415123 0.         0.        ]
+[1.69266391 1.68286866 0.15415123 2.09172308 0.        ]
+[1.69266391 1.68286866 0.15415123 2.09172308 1.99945748]
+[2.14249824 0.         0.         0.         0.        ]
+[2.14249824 1.78849629 0.         0.         0.        ]
+[2.14249824 1.78849629 1.9875342  0.         0.        ]
+[2.14249824 1.78849629 1.9875342  1.56148173 0.        ]
+[2.14249824 1.78849629 1.9875342  1.56148173 0.08435297]
+[2.12437386 0.         0.         0.         0.        ]
+[2.12437386 1.42644754 0.         0.         0.        ]
+[2.12437386 1.42644754 0.05104184 0.         0.        ]
+[2.12437386 1.42644754 0.05104184 2.18413847 0.        ]
+[2.12437386 1.42644754 0.05104184 2.18413847 2.10184719]
+[2.17063543 0.         0.         0.         0.        ]
+[2.17063543 1.77429498 0.         0.         0.        ]
+[2.17063543 1.77429498 2.05698259 0.         0.        ]
+[2.17063543 1.77429498 2.05698259 1.25529581 0.        ]
+[2.17063543 1.77429498 2.05698259 1.25529581 0.12984627]
+[2.1694381 0.        0.        0.        0.       ]
+[2.1694381  2.03795614 0.         0.         0.        ]
+[2.1694381  2.03795614 0.51309869 0.         0.        ]
+[2.1694381  2.03795614 0.51309869 0.20591308 0.        ]
+[2.1694381  2.03795614 0.51309869 0.20591308 1.98923054]
+[2.18415598 0.         0.         0.         0.        ]
+[2.18415598 1.29849063 0.         0.         0.        ]
+[2.18415598 1.29849063 0.17240747 0.         0.        ]
+[2.18415598 1.29849063 0.17240747 1.21614304 0.        ]
+[2.18415598 1.29849063 0.17240747 1.21614304 0.80409775]
+[2.19157377 0.         0.         0.         0.        ]
+[2.19157377 1.72679711 0.         0.         0.        ]
+[2.19157377 1.72679711 0.08107172 0.         0.        ]
+[2.19157377 1.72679711 0.08107172 1.33258454 0.        ]
+[2.19157377 1.72679711 0.08107172 1.33258454 1.1662631 ]
+[2.18382734 0.         0.         0.         0.        ]
+[2.18382734 2.08224285 0.         0.         0.        ]
+[2.18382734 2.08224285 2.13722647 0.         0.        ]
+[2.18382734 2.08224285 2.13722647 1.30680757 0.        ]
+[2.18382734 2.08224285 2.13722647 1.30680757 0.05759246]
+[0.72184829 0.         0.         0.         0.        ]
+[0.72184829 0.28677975 0.         0.         0.        ]
+[0.72184829 0.28677975 1.35088061 0.         0.        ]
+[0.72184829 0.28677975 1.35088061 0.48868521 0.        ]
+[0.72184829 0.28677975 1.35088061 0.48868521 1.37481702]
+[1.37589072 0.         0.         0.         0.        ]
+[1.37589072 2.11849128 0.         0.         0.        ]
+[1.37589072 2.11849128 1.51413868 0.         0.        ]
+[1.37589072 2.11849128 1.51413868 0.17815632 0.        ]
+[1.37589072 2.11849128 1.51413868 0.17815632 1.84802967]
+[2.17154481 0.         0.         0.         0.        ]
+[2.17154481 0.53326995 0.         0.         0.        ]
+[2.17154481 0.53326995 0.06907153 0.         0.        ]
+[2.17154481 0.53326995 0.06907153 2.06623075 0.        ]
+[2.17154481 0.53326995 0.06907153 2.06623075 1.88047791]
+[0.11946296 0.         0.         0.         0.        ]
+[0.11946296 1.14413012 0.         0.         0.        ]
+[0.11946296 1.14413012 1.12421193 0.         0.        ]
+[0.11946296 1.14413012 1.12421193 2.12836673 0.        ]
+[0.11946296 1.14413012 1.12421193 2.12836673 1.85282859]
+[2.0671769 0.        0.        0.        0.       ]
+[2.0671769  0.06764022 0.         0.         0.        ]
+[2.0671769  0.06764022 0.50087967 0.         0.        ]
+[2.0671769  0.06764022 0.50087967 1.99004048 0.        ]
+[2.0671769  0.06764022 0.50087967 1.99004048 0.95974891]
+[0.80885233 0.         0.         0.         0.        ]
+[0.80885233 0.07650044 0.         0.         0.        ]
+[0.80885233 0.07650044 1.36010998 0.         0.        ]
+[0.80885233 0.07650044 1.36010998 1.99340019 0.        ]
+[0.80885233 0.07650044 1.36010998 1.99340019 2.15735815]
+[2.18558404 0.         0.         0.         0.        ]
+[2.18558404 1.27972074 0.         0.         0.        ]
+[2.18558404 1.27972074 0.59821941 0.         0.        ]
+[2.18558404 1.27972074 0.59821941 0.09260383 0.        ]
+[2.18558404 1.27972074 0.59821941 0.09260383 1.72074442]
+[2.12085932 0.         0.         0.         0.        ]
+[2.12085932 0.02897626 0.         0.         0.        ]
+[2.12085932 0.02897626 1.60638294 0.         0.        ]
+[2.12085932 0.02897626 1.60638294 2.13163438 0.        ]
+[2.12085932 0.02897626 1.60638294 2.13163438 1.89116582]
+[2.01680944 0.         0.         0.         0.        ]
+[2.01680944 0.37640654 0.         0.         0.        ]
+[2.01680944 0.37640654 0.19613075 0.         0.        ]
+[2.01680944 0.37640654 0.19613075 1.69389428 0.        ]
+[2.01680944 0.37640654 0.19613075 1.69389428 1.70668951]
+[1.2758014 0.        0.        0.        0.       ]
+[1.2758014  0.05460009 0.         0.         0.        ]
+[1.2758014  0.05460009 2.06905232 0.         0.        ]
+[1.2758014  0.05460009 2.06905232 2.15703609 0.        ]
+[1.2758014  0.05460009 2.06905232 2.15703609 2.12461622]
+[1.04084861 0.         0.         0.         0.        ]
+[1.04084861 0.07997292 0.         0.         0.        ]
+[1.04084861 0.07997292 0.47623926 0.         0.        ]
+[1.04084861 0.07997292 0.47623926 2.15814753 0.        ]
+[1.04084861 0.07997292 0.47623926 2.15814753 2.1554026 ]
+[1.56329406 0.         0.         0.         0.        ]
+[1.56329406 0.7906985  0.         0.         0.        ]
+[1.56329406 0.7906985  0.21280371 0.         0.        ]
+[1.56329406 0.7906985  0.21280371 2.14523389 0.        ]
+[1.56329406 0.7906985  0.21280371 2.14523389 2.13173849]
+[1.7451945 0.        0.        0.        0.       ]
+[1.7451945  1.54725103 0.         0.         0.        ]
+[1.7451945  1.54725103 2.16724455 0.         0.        ]
+[1.7451945  1.54725103 2.16724455 2.1410617  0.        ]
+[1.7451945  1.54725103 2.16724455 2.1410617  0.06646865]
+[0.28605975 0.         0.         0.         0.        ]
+[0.28605975 0.14560512 0.         0.         0.        ]
+[0.28605975 0.14560512 1.23695198 0.         0.        ]
+[0.28605975 0.14560512 1.23695198 1.64938265 0.        ]
+[0.28605975 0.14560512 1.23695198 1.64938265 2.15078046]
+[2.17959152 0.         0.         0.         0.        ]
+[2.17959152 2.09824449 0.         0.         0.        ]
+[2.17959152 2.09824449 2.17588908 0.         0.        ]
+[2.17959152 2.09824449 2.17588908 1.50067211 0.        ]
+[2.17959152 2.09824449 2.17588908 1.50067211 0.03556565]
+[2.18749258 0.         0.         0.         0.        ]
+[2.18749258 1.60342553 0.         0.         0.        ]
+[2.18749258 1.60342553 0.1198429  0.         0.        ]
+[2.18749258 1.60342553 0.1198429  1.36933206 0.        ]
+[2.18749258 1.60342553 0.1198429  1.36933206 1.87762498]
+[2.13368076 0.         0.         0.         0.        ]
+[2.13368076 1.77027421 0.         0.         0.        ]
+[2.13368076 1.77027421 0.61469862 0.         0.        ]
+[2.13368076 1.77027421 0.61469862 1.74936219 0.        ]
+[2.13368076 1.77027421 0.61469862 1.74936219 0.31980911]
+[2.17273011 0.         0.         0.         0.        ]
+[2.17273011 1.94305368 0.         0.         0.        ]
+[2.17273011 1.94305368 1.80786006 0.         0.        ]
+[2.17273011 1.94305368 1.80786006 1.68611975 0.        ]
+[2.17273011 1.94305368 1.80786006 1.68611975 0.04267003]
+[2.12929275 0.         0.         0.         0.        ]
+[2.12929275 1.39518208 0.         0.         0.        ]
+[2.12929275 1.39518208 0.83417505 0.         0.        ]
+[2.12929275 1.39518208 0.83417505 0.79814778 0.        ]
+[2.12929275 1.39518208 0.83417505 0.79814778 1.0420286 ]
+[1.87771788 0.         0.         0.         0.        ]
+[1.87771788 0.71445052 0.         0.         0.        ]
+[1.87771788 0.71445052 1.31367146 0.         0.        ]
+[1.87771788 0.71445052 1.31367146 1.70215209 0.        ]
+[1.87771788 0.71445052 1.31367146 1.70215209 0.11908785]
+[1.86207967 0.         0.         0.         0.        ]
+[1.86207967 1.50308414 0.         0.         0.        ]
+[1.86207967 1.50308414 0.36624859 0.         0.        ]
+[1.86207967 1.50308414 0.36624859 0.41248546 0.        ]
+[1.86207967 1.50308414 0.36624859 0.41248546 0.26230917]
+[1.84705591 0.         0.         0.         0.        ]
+[1.84705591 1.24815809 0.         0.         0.        ]
+[1.84705591 1.24815809 0.03664833 0.         0.        ]
+[1.84705591 1.24815809 0.03664833 2.16211386 0.        ]
+[1.84705591 1.24815809 0.03664833 2.16211386 1.95410895]
+[2.15903362 0.         0.         0.         0.        ]
+[2.15903362 0.74024145 0.         0.         0.        ]
+[2.15903362 0.74024145 0.68979729 0.         0.        ]
+[2.15903362 0.74024145 0.68979729 1.63989783 0.        ]
+[2.15903362 0.74024145 0.68979729 1.63989783 0.67656671]
+[1.55074443 0.         0.         0.         0.        ]
+[1.55074443 1.08619191 0.         0.         0.        ]
+[1.55074443 1.08619191 0.1773766  0.         0.        ]
+[1.55074443 1.08619191 0.1773766  2.08661836 0.        ]
+[1.55074443 1.08619191 0.1773766  2.08661836 2.1514325 ]
+[1.31606233 0.         0.         0.         0.        ]
+[1.31606233 0.05798313 0.         0.         0.        ]
+[1.31606233 0.05798313 0.50979315 0.         0.        ]
+[1.31606233 0.05798313 0.50979315 2.17301142 0.        ]
+[1.31606233 0.05798313 0.50979315 2.17301142 2.16784172]
+[1.34959638 0.         0.         0.         0.        ]
+[1.34959638 1.95240304 0.         0.         0.        ]
+[1.34959638 1.95240304 2.09087835 0.         0.        ]
+[1.34959638 1.95240304 2.09087835 0.15056504 0.        ]
+[1.34959638 1.95240304 2.09087835 0.15056504 1.79840205]
+[1.58363674 0.         0.         0.         0.        ]
+[1.58363674 2.10353784 0.         0.         0.        ]
+[1.58363674 2.10353784 2.16138753 0.         0.        ]
+[1.58363674 2.10353784 2.16138753 0.03435632 0.        ]
+[1.58363674 2.10353784 2.16138753 0.03435632 1.90743097]
+[1.82228519 0.         0.         0.         0.        ]
+[1.82228519 0.08790413 0.         0.         0.        ]
+[1.82228519 0.08790413 0.40557627 0.         0.        ]
+[1.82228519 0.08790413 0.40557627 2.06330124 0.        ]
+[1.82228519 0.08790413 0.40557627 2.06330124 1.74448968]
+[0.12665242 0.         0.         0.         0.        ]
+[0.12665242 1.15664889 0.         0.         0.        ]
+[0.12665242 1.15664889 0.70294097 0.         0.        ]
+[0.12665242 1.15664889 0.70294097 1.00876938 0.        ]
+[0.12665242 1.15664889 0.70294097 1.00876938 2.01684631]
+[0.75559782 0.         0.         0.         0.        ]
+[0.75559782 0.17701804 0.         0.         0.        ]
+[0.75559782 0.17701804 1.36314195 0.         0.        ]
+[0.75559782 0.17701804 1.36314195 1.84067032 0.        ]
+[0.75559782 0.17701804 1.36314195 1.84067032 1.29046634]
+[2.16294583 0.         0.         0.         0.        ]
+[2.16294583 2.06639224 0.         0.         0.        ]
+[2.16294583 2.06639224 2.10945841 0.         0.        ]
+[2.16294583 2.06639224 2.10945841 1.43323485 0.        ]
+[2.16294583 2.06639224 2.10945841 1.43323485 0.04019221]
+[2.17391346 0.         0.         0.         0.        ]
+[2.17391346 1.09974151 0.         0.         0.        ]
+[2.17391346 1.09974151 1.08593415 0.         0.        ]
+[2.17391346 1.09974151 1.08593415 1.85966079 0.        ]
+[2.17391346 1.09974151 1.08593415 1.85966079 0.27002162]
+[1.30144771 0.         0.         0.         0.        ]
+[1.30144771 0.16355265 0.         0.         0.        ]
+[1.30144771 0.16355265 0.32593314 0.         0.        ]
+[1.30144771 0.16355265 0.32593314 1.99323485 0.        ]
+[1.30144771 0.16355265 0.32593314 1.99323485 2.00704276]
+[1.9526644 0.        0.        0.        0.       ]
+[1.9526644  1.35951336 0.         0.         0.        ]
+[1.9526644  1.35951336 0.20806141 0.         0.        ]
+[1.9526644  1.35951336 0.20806141 2.12351232 0.        ]
+[1.9526644  1.35951336 0.20806141 2.12351232 0.30982379]
+[1.97408924 0.         0.         0.         0.        ]
+[1.97408924 0.4575631  0.         0.         0.        ]
+[1.97408924 0.4575631  0.17793662 0.         0.        ]
+[1.97408924 0.4575631  0.17793662 0.75168614 0.        ]
+[1.97408924 0.4575631  0.17793662 0.75168614 0.86004924]
+[2.17561506 0.         0.         0.         0.        ]
+[2.17561506 2.01790303 0.         0.         0.        ]
+[2.17561506 2.01790303 2.04518765 0.         0.        ]
+[2.17561506 2.01790303 2.04518765 1.59633199 0.        ]
+[2.17561506 2.01790303 2.04518765 1.59633199 0.04415435]
+[1.63852481 0.         0.         0.         0.        ]
+[1.63852481 0.13600853 0.         0.         0.        ]
+[1.63852481 0.13600853 1.18265424 0.         0.        ]
+[1.63852481 0.13600853 1.18265424 2.19490844 0.        ]
+[1.63852481 0.13600853 1.18265424 2.19490844 2.11956874]
+[0.16585395 0.         0.         0.         0.        ]
+[0.16585395 1.18339008 0.         0.         0.        ]
+[0.16585395 1.18339008 1.12127085 0.         0.        ]
+[0.16585395 1.18339008 1.12127085 0.94425819 0.        ]
+[0.16585395 1.18339008 1.12127085 0.94425819 1.64646338]
+[0.08392321 0.         0.         0.         0.        ]
+[0.08392321 0.28146934 0.         0.         0.        ]
+[0.08392321 0.28146934 0.76907083 0.         0.        ]
+[0.08392321 0.28146934 0.76907083 2.14613016 0.        ]
+[0.08392321 0.28146934 0.76907083 2.14613016 2.1321029 ]
+[0.63502345 0.         0.         0.         0.        ]
+[0.63502345 0.20611096 0.         0.         0.        ]
+[0.63502345 0.20611096 1.54022475 0.         0.        ]
+[0.63502345 0.20611096 1.54022475 2.00848353 0.        ]
+[0.63502345 0.20611096 1.54022475 2.00848353 1.88957092]
+[2.17317725 0.         0.         0.         0.        ]
+[2.17317725 2.09880054 0.         0.         0.        ]
+[2.17317725 2.09880054 2.14999112 0.         0.        ]
+[2.17317725 2.09880054 2.14999112 1.48965177 0.        ]
+[2.17317725 2.09880054 2.14999112 1.48965177 0.04410404]
+[0.1174288 0.        0.        0.        0.       ]
+[0.1174288  0.50822244 0.         0.         0.        ]
+[0.1174288  0.50822244 1.80298322 0.         0.        ]
+[0.1174288  0.50822244 1.80298322 1.94340183 0.        ]
+[0.1174288  0.50822244 1.80298322 1.94340183 2.15555408]
+[1.54129756 0.         0.         0.         0.        ]
+[1.54129756 0.30408841 0.         0.         0.        ]
+[1.54129756 0.30408841 1.03848148 0.         0.        ]
+[1.54129756 0.30408841 1.03848148 0.94479492 0.        ]
+[1.54129756 0.30408841 1.03848148 0.94479492 1.22592362]
+[0.19079972 0.         0.         0.         0.        ]
+[0.19079972 1.64945373 0.         0.         0.        ]
+[0.19079972 1.64945373 0.70137307 0.         0.        ]
+[0.19079972 1.64945373 0.70137307 2.15155827 0.        ]
+[0.19079972 1.64945373 0.70137307 2.15155827 1.1987054 ]
+[1.64535551 0.         0.         0.         0.        ]
+[1.64535551 0.21503859 0.         0.         0.        ]
+[1.64535551 0.21503859 0.75313171 0.         0.        ]
+[1.64535551 0.21503859 0.75313171 2.16598624 0.        ]
+[1.64535551 0.21503859 0.75313171 2.16598624 2.00465657]
+[2.09940545 0.         0.         0.         0.        ]
+[2.09940545 0.93183852 0.         0.         0.        ]
+[2.09940545 0.93183852 2.13836734 0.         0.        ]
+[2.09940545 0.93183852 2.13836734 1.24470267 0.        ]
+[2.09940545 0.93183852 2.13836734 1.24470267 0.13164151]
+[2.18394244 0.         0.         0.         0.        ]
+[2.18394244 1.81937916 0.         0.         0.        ]
+[2.18394244 1.81937916 0.63574568 0.         0.        ]
+[2.18394244 1.81937916 0.63574568 1.65951662 0.        ]
+[2.18394244 1.81937916 0.63574568 1.65951662 0.56414074]
+[2.18694916 0.         0.         0.         0.        ]
+[2.18694916 1.7830692  0.         0.         0.        ]
+[2.18694916 1.7830692  0.07731194 0.         0.        ]
+[2.18694916 1.7830692  0.07731194 1.08994395 0.        ]
+[2.18694916 1.7830692  0.07731194 1.08994395 1.58708763]
+[2.0031796 0.        0.        0.        0.       ]
+[2.0031796  0.12840186 0.         0.         0.        ]
+[2.0031796  0.12840186 0.61367483 0.         0.        ]
+[2.0031796  0.12840186 0.61367483 1.19845625 0.        ]
+[2.0031796  0.12840186 0.61367483 1.19845625 0.89679255]
+[2.13549856 0.         0.         0.         0.        ]
+[2.13549856 0.01322185 0.         0.         0.        ]
+[2.13549856 0.01322185 1.14874599 0.         0.        ]
+[2.13549856 0.01322185 1.14874599 2.19503454 0.        ]
+[2.13549856 0.01322185 1.14874599 2.19503454 1.56822285]
+[2.19059197 0.         0.         0.         0.        ]
+[2.19059197 1.97549973 0.         0.         0.        ]
+[2.19059197 1.97549973 2.1166606  0.         0.        ]
+[2.19059197 1.97549973 2.1166606  1.24187187 0.        ]
+[2.19059197 1.97549973 2.1166606  1.24187187 0.15020425]
+[2.17363215 0.         0.         0.         0.        ]
+[2.17363215 2.09164086 0.         0.         0.        ]
+[2.17363215 2.09164086 1.82442936 0.         0.        ]
+[2.17363215 2.09164086 1.82442936 1.4199263  0.        ]
+[2.17363215 2.09164086 1.82442936 1.4199263  0.06960911]
+[2.07774074 0.         0.         0.         0.        ]
+[2.07774074 0.63896655 0.         0.         0.        ]
+[2.07774074 0.63896655 0.03812912 0.         0.        ]
+[2.07774074 0.63896655 0.03812912 1.84114109 0.        ]
+[2.07774074 0.63896655 0.03812912 1.84114109 1.32030771]
+[0.24165557 0.         0.         0.         0.        ]
+[0.24165557 0.3365118  0.         0.         0.        ]
+[0.24165557 0.3365118  0.91885872 0.         0.        ]
+[0.24165557 0.3365118  0.91885872 2.09006443 0.        ]
+[0.24165557 0.3365118  0.91885872 2.09006443 2.18034411]
+[1.81273626 0.         0.         0.         0.        ]
+[1.81273626 0.15955766 0.         0.         0.        ]
+[1.81273626 0.15955766 1.21606305 0.         0.        ]
+[1.81273626 0.15955766 1.21606305 2.1883997  0.        ]
+[1.81273626 0.15955766 1.21606305 2.1883997  2.02613546]
+[0.35057186 0.         0.         0.         0.        ]
+[0.35057186 0.25351678 0.         0.         0.        ]
+[0.35057186 0.25351678 0.26481484 0.         0.        ]
+[0.35057186 0.25351678 0.26481484 0.79310739 0.        ]
+[0.35057186 0.25351678 0.26481484 0.79310739 2.01261481]
+[1.64208869 0.         0.         0.         0.        ]
+[1.64208869 1.93148119 0.         0.         0.        ]
+[1.64208869 1.93148119 2.12538957 0.         0.        ]
+[1.64208869 1.93148119 2.12538957 1.98478574 0.        ]
+[1.64208869 1.93148119 2.12538957 1.98478574 0.08441421]
+[2.14418234 0.         0.         0.         0.        ]
+[2.14418234 0.10345536 0.         0.         0.        ]
+[2.14418234 0.10345536 0.95742102 0.         0.        ]
+[2.14418234 0.10345536 0.95742102 1.56704225 0.        ]
+[2.14418234 0.10345536 0.95742102 1.56704225 0.01975996]
+[1.11277917 0.         0.         0.         0.        ]
+[1.11277917 0.03758992 0.         0.         0.        ]
+[1.11277917 0.03758992 2.01552199 0.         0.        ]
+[1.11277917 0.03758992 2.01552199 2.10985193 0.        ]
+[1.11277917 0.03758992 2.01552199 2.10985193 2.14394843]
+[0.3256753 0.        0.        0.        0.       ]
+[0.3256753  0.16322154 0.         0.         0.        ]
+[0.3256753  0.16322154 2.1554867  0.         0.        ]
+[0.3256753  0.16322154 2.1554867  1.72055783 0.        ]
+[0.3256753  0.16322154 2.1554867  1.72055783 2.03039605]
+[2.1802581 0.        0.        0.        0.       ]
+[2.1802581  1.77562859 0.         0.         0.        ]
+[2.1802581  1.77562859 0.1953672  0.         0.        ]
+[2.1802581  1.77562859 0.1953672  0.91631076 0.        ]
+[2.1802581  1.77562859 0.1953672  0.91631076 1.28743126]
+[2.09286188 0.         0.         0.         0.        ]
+[2.09286188 0.22301498 0.         0.         0.        ]
+[2.09286188 0.22301498 0.0904648  0.         0.        ]
+[2.09286188 0.22301498 0.0904648  1.70187578 0.        ]
+[2.09286188 0.22301498 0.0904648  1.70187578 1.54147266]
+[2.19177875 0.         0.         0.         0.        ]
+[2.19177875 1.87598969 0.         0.         0.        ]
+[2.19177875 1.87598969 0.07879493 0.         0.        ]
+[2.19177875 1.87598969 0.07879493 1.42171135 0.        ]
+[2.19177875 1.87598969 0.07879493 1.42171135 1.89580448]
+[1.13035835 0.         0.         0.         0.        ]
+[1.13035835 2.18491804 0.         0.         0.        ]
+[1.13035835 2.18491804 2.19174846 0.         0.        ]
+[1.13035835 2.18491804 2.19174846 1.84681635 0.        ]
+[1.13035835 2.18491804 2.19174846 1.84681635 0.18705849]
+[1.45332889 0.         0.         0.         0.        ]
+[1.45332889 2.06867663 0.         0.         0.        ]
+[1.45332889 2.06867663 2.0217498  0.         0.        ]
+[1.45332889 2.06867663 2.0217498  0.05755537 0.        ]
+[1.45332889 2.06867663 2.0217498  0.05755537 1.04009259]
+[2.18777803 0.         0.         0.         0.        ]
+[2.18777803 2.18274363 0.         0.         0.        ]
+[2.18777803 2.18274363 2.1305692  0.         0.        ]
+[2.18777803 2.18274363 2.1305692  1.30939867 0.        ]
+[2.18777803 2.18274363 2.1305692  1.30939867 0.10139033]
+[1.25734589 0.         0.         0.         0.        ]
+[1.25734589 0.09614377 0.         0.         0.        ]
+[1.25734589 0.09614377 1.27298594 0.         0.        ]
+[1.25734589 0.09614377 1.27298594 2.18196681 0.        ]
+[1.25734589 0.09614377 1.27298594 2.18196681 2.1006548 ]
+[2.15030382 0.         0.         0.         0.        ]
+[2.15030382 1.51176686 0.         0.         0.        ]
+[2.15030382 1.51176686 0.08777729 0.         0.        ]
+[2.15030382 1.51176686 0.08777729 0.96169533 0.        ]
+[2.15030382 1.51176686 0.08777729 0.96169533 1.10079389]
+[0.09691145 0.         0.         0.         0.        ]
+[0.09691145 0.37745419 0.         0.         0.        ]
+[0.09691145 0.37745419 0.69978928 0.         0.        ]
+[0.09691145 0.37745419 0.69978928 1.62394772 0.        ]
+[0.09691145 0.37745419 0.69978928 1.62394772 2.16280934]
+[0.1910873 0.        0.        0.        0.       ]
+[0.1910873 1.3225433 0.        0.        0.       ]
+[0.1910873  1.3225433  1.97744573 0.         0.        ]
+[0.1910873  1.3225433  1.97744573 1.9982381  0.        ]
+[0.1910873  1.3225433  1.97744573 1.9982381  1.26945522]
+[2.17072443 0.         0.         0.         0.        ]
+[2.17072443 0.10902353 0.         0.         0.        ]
+[2.17072443 0.10902353 0.25662388 0.         0.        ]
+[2.17072443 0.10902353 0.25662388 1.86249089 0.        ]
+[2.17072443 0.10902353 0.25662388 1.86249089 2.03517184]
+[2.15197122 0.         0.         0.         0.        ]
+[2.15197122 0.95418778 0.         0.         0.        ]
+[2.15197122 0.95418778 1.2439083  0.         0.        ]
+[2.15197122 0.95418778 1.2439083  1.33710968 0.        ]
+[2.15197122 0.95418778 1.2439083  1.33710968 0.19570589]
+[0.1014346 0.        0.        0.        0.       ]
+[0.1014346  1.02027243 0.         0.         0.        ]
+[0.1014346  1.02027243 1.6825374  0.         0.        ]
+[0.1014346  1.02027243 1.6825374  2.19431176 0.        ]
+[0.1014346  1.02027243 1.6825374  2.19431176 2.18092148]
+[2.18832958 0.         0.         0.         0.        ]
+[2.18832958 1.82383952 0.         0.         0.        ]
+[2.18832958 1.82383952 0.20670689 0.         0.        ]
+[2.18832958 1.82383952 0.20670689 0.65664645 0.        ]
+[2.18832958 1.82383952 0.20670689 0.65664645 1.37265251]
+[1.7852581 0.        0.        0.        0.       ]
+[1.7852581  1.85880528 0.         0.         0.        ]
+[1.7852581  1.85880528 0.04769316 0.         0.        ]
+[1.7852581  1.85880528 0.04769316 2.13449314 0.        ]
+[1.7852581  1.85880528 0.04769316 2.13449314 1.96230034]
+[2.18464136 0.         0.         0.         0.        ]
+[2.18464136 0.94165789 0.         0.         0.        ]
+[2.18464136 0.94165789 0.10774079 0.         0.        ]
+[2.18464136 0.94165789 0.10774079 1.33370583 0.        ]
+[2.18464136 0.94165789 0.10774079 1.33370583 2.05322725]
+[2.19144403 0.         0.         0.         0.        ]
+[2.19144403 1.882595   0.         0.         0.        ]
+[2.19144403 1.882595   2.17000188 0.         0.        ]
+[2.19144403 1.882595   2.17000188 1.23856609 0.        ]
+[2.19144403 1.882595   2.17000188 1.23856609 0.14561648]
+[2.1437965 0.        0.        0.        0.       ]
+[2.1437965  1.25417779 0.         0.         0.        ]
+[2.1437965  1.25417779 0.04355919 0.         0.        ]
+[2.1437965  1.25417779 0.04355919 2.17574579 0.        ]
+[2.1437965  1.25417779 0.04355919 2.17574579 1.96200742]
+[2.15521321 0.         0.         0.         0.        ]
+[2.15521321 2.0062911  0.         0.         0.        ]
+[2.15521321 2.0062911  0.80438875 0.         0.        ]
+[2.15521321 2.0062911  0.80438875 0.46675296 0.        ]
+[2.15521321 2.0062911  0.80438875 0.46675296 1.75146452]
+[1.01511513 0.         0.         0.         0.        ]
+[1.01511513 0.14043429 0.         0.         0.        ]
+[1.01511513 0.14043429 0.72967685 0.         0.        ]
+[1.01511513 0.14043429 0.72967685 2.02397256 0.        ]
+[1.01511513 0.14043429 0.72967685 2.02397256 1.50525516]
+[2.02289818 0.         0.         0.         0.        ]
+[2.02289818 0.5661309  0.         0.         0.        ]
+[2.02289818 0.5661309  0.97479482 0.         0.        ]
+[2.02289818 0.5661309  0.97479482 1.72859008 0.        ]
+[2.02289818 0.5661309  0.97479482 1.72859008 0.72463946]
+[2.15991202 0.         0.         0.         0.        ]
+[2.15991202 0.52546935 0.         0.         0.        ]
+[2.15991202 0.52546935 0.15452437 0.         0.        ]
+[2.15991202 0.52546935 0.15452437 1.37057379 0.        ]
+[2.15991202 0.52546935 0.15452437 1.37057379 1.62558276]
+[0.29053654 0.         0.         0.         0.        ]
+[0.29053654 0.33560864 0.         0.         0.        ]
+[0.29053654 0.33560864 1.5785965  0.         0.        ]
+[0.29053654 0.33560864 1.5785965  1.34470856 0.        ]
+[0.29053654 0.33560864 1.5785965  1.34470856 1.02310793]
+[1.17326084 0.         0.         0.         0.        ]
+[1.17326084 0.07578363 0.         0.         0.        ]
+[1.17326084 0.07578363 1.49074387 0.         0.        ]
+[1.17326084 0.07578363 1.49074387 2.1819375  0.        ]
+[1.17326084 0.07578363 1.49074387 2.1819375  2.12159796]
+[0.95862763 0.         0.         0.         0.        ]
+[0.95862763 0.98158508 0.         0.         0.        ]
+[0.95862763 0.98158508 1.94932904 0.         0.        ]
+[0.95862763 0.98158508 1.94932904 0.20347663 0.        ]
+[0.95862763 0.98158508 1.94932904 0.20347663 1.41314437]
+[1.50518705 0.         0.         0.         0.        ]
+[1.50518705 0.04290703 0.         0.         0.        ]
+[1.50518705 0.04290703 0.67699634 0.         0.        ]
+[1.50518705 0.04290703 0.67699634 2.13955237 0.        ]
+[1.50518705 0.04290703 0.67699634 2.13955237 1.53276425]
+[0.51569782 0.         0.         0.         0.        ]
+[0.51569782 0.14849957 0.         0.         0.        ]
+[0.51569782 0.14849957 1.72300608 0.         0.        ]
+[0.51569782 0.14849957 1.72300608 1.64325166 0.        ]
+[0.51569782 0.14849957 1.72300608 1.64325166 2.12376414]
+[1.91099622 0.         0.         0.         0.        ]
+[1.91099622 2.05300791 0.         0.         0.        ]
+[1.91099622 2.05300791 0.97756488 0.         0.        ]
+[1.91099622 2.05300791 0.97756488 1.41285613 0.        ]
+[1.91099622 2.05300791 0.97756488 1.41285613 0.21210495]
+[1.63939421 0.         0.         0.         0.        ]
+[1.63939421 1.6330058  0.         0.         0.        ]
+[1.63939421 1.6330058  2.13023388 0.         0.        ]
+[1.63939421 1.6330058  2.13023388 2.080852   0.        ]
+[1.63939421 1.6330058  2.13023388 2.080852   0.16867967]
+[2.18850528 0.         0.         0.         0.        ]
+[2.18850528 1.99435078 0.         0.         0.        ]
+[2.18850528 1.99435078 0.09237657 0.         0.        ]
+[2.18850528 1.99435078 0.09237657 1.09995531 0.        ]
+[2.18850528 1.99435078 0.09237657 1.09995531 1.73202445]
+[2.13350633 0.         0.         0.         0.        ]
+[2.13350633 0.01610225 0.         0.         0.        ]
+[2.13350633 0.01610225 1.98964601 0.         0.        ]
+[2.13350633 0.01610225 1.98964601 2.14739069 0.        ]
+[2.13350633 0.01610225 1.98964601 2.14739069 1.13024247]
+[1.89056239 0.         0.         0.         0.        ]
+[1.89056239 1.14288966 0.         0.         0.        ]
+[1.89056239 1.14288966 0.07032438 0.         0.        ]
+[1.89056239 1.14288966 0.07032438 2.13110784 0.        ]
+[1.89056239 1.14288966 0.07032438 2.13110784 1.37811417]
+[2.17989482 0.         0.         0.         0.        ]
+[2.17989482 1.45740764 0.         0.         0.        ]
+[2.17989482 1.45740764 0.02640224 0.         0.        ]
+[2.17989482 1.45740764 0.02640224 1.50379306 0.        ]
+[2.17989482 1.45740764 0.02640224 1.50379306 2.06296137]
+[1.8911103 0.        0.        0.        0.       ]
+[1.8911103  0.31811318 0.         0.         0.        ]
+[1.8911103  0.31811318 1.48308742 0.         0.        ]
+[1.8911103  0.31811318 1.48308742 0.86643137 0.        ]
+[1.8911103  0.31811318 1.48308742 0.86643137 1.26371969]
+[2.17396318 0.         0.         0.         0.        ]
+[2.17396318 1.27082828 0.         0.         0.        ]
+[2.17396318 1.27082828 1.03283901 0.         0.        ]
+[2.17396318 1.27082828 1.03283901 1.34036568 0.        ]
+[2.17396318 1.27082828 1.03283901 1.34036568 0.13829891]
+[0.30174009 0.         0.         0.         0.        ]
+[0.30174009 0.07333115 0.         0.         0.        ]
+[0.30174009 0.07333115 1.86964572 0.         0.        ]
+[0.30174009 0.07333115 1.86964572 1.36963731 0.        ]
+[0.30174009 0.07333115 1.86964572 1.36963731 2.1685532 ]
+[0.1836547 0.        0.        0.        0.       ]
+[0.1836547  0.44869849 0.         0.         0.        ]
+[0.1836547  0.44869849 2.12326779 0.         0.        ]
+[0.1836547  0.44869849 2.12326779 1.90847251 0.        ]
+[0.1836547  0.44869849 2.12326779 1.90847251 1.19545425]
+[2.18400404 0.         0.         0.         0.        ]
+[2.18400404 2.10582244 0.         0.         0.        ]
+[2.18400404 2.10582244 2.11567125 0.         0.        ]
+[2.18400404 2.10582244 2.11567125 1.5832936  0.        ]
+[2.18400404 2.10582244 2.11567125 1.5832936  0.01958791]
+[1.42521921 0.         0.         0.         0.        ]
+[1.42521921 0.29061432 0.         0.         0.        ]
+[1.42521921 0.29061432 0.8355851  0.         0.        ]
+[1.42521921 0.29061432 0.8355851  2.14325159 0.        ]
+[1.42521921 0.29061432 0.8355851  2.14325159 2.10470118]
+[0.05306197 0.         0.         0.         0.        ]
+[0.05306197 0.05643098 0.         0.         0.        ]
+[0.05306197 0.05643098 1.78501606 0.         0.        ]
+[0.05306197 0.05643098 1.78501606 2.08469186 0.        ]
+[0.05306197 0.05643098 1.78501606 2.08469186 2.15632904]
+[0.95404492 0.         0.         0.         0.        ]
+[0.95404492 1.74138874 0.         0.         0.        ]
+[0.95404492 1.74138874 0.61665774 0.         0.        ]
+[0.95404492 1.74138874 0.61665774 1.09762715 0.        ]
+[0.95404492 1.74138874 0.61665774 1.09762715 0.27452722]
+[0.87615313 0.         0.         0.         0.        ]
+[0.87615313 0.13712091 0.         0.         0.        ]
+[0.87615313 0.13712091 1.9671616  0.         0.        ]
+[0.87615313 0.13712091 1.9671616  2.11376344 0.        ]
+[0.87615313 0.13712091 1.9671616  2.11376344 2.17643186]
+[2.17681364 0.         0.         0.         0.        ]
+[2.17681364 1.26550146 0.         0.         0.        ]
+[2.17681364 1.26550146 0.17123687 0.         0.        ]
+[2.17681364 1.26550146 0.17123687 0.80893684 0.        ]
+[2.17681364 1.26550146 0.17123687 0.80893684 1.37699917]
+[2.16510134 0.         0.         0.         0.        ]
+[2.16510134 1.76131372 0.         0.         0.        ]
+[2.16510134 1.76131372 1.97088858 0.         0.        ]
+[2.16510134 1.76131372 1.97088858 1.09879202 0.        ]
+[2.16510134 1.76131372 1.97088858 1.09879202 0.09055457]
+[2.18885587 0.         0.         0.         0.        ]
+[2.18885587 2.15042346 0.         0.         0.        ]
+[2.18885587 2.15042346 1.951333   0.         0.        ]
+[2.18885587 2.15042346 1.951333   1.3426977  0.        ]
+[2.18885587 2.15042346 1.951333   1.3426977  0.08866152]
+[1.03693739 0.         0.         0.         0.        ]
+[1.03693739 0.19644197 0.         0.         0.        ]
+[1.03693739 0.19644197 1.56482258 0.         0.        ]
+[1.03693739 0.19644197 1.56482258 2.00411812 0.        ]
+[1.03693739 0.19644197 1.56482258 2.00411812 0.99143527]
+[2.16887327 0.         0.         0.         0.        ]
+[2.16887327 1.51096571 0.         0.         0.        ]
+[2.16887327 1.51096571 2.16609198 0.         0.        ]
+[2.16887327 1.51096571 2.16609198 2.17412754 0.        ]
+[2.16887327 1.51096571 2.16609198 2.17412754 0.02515409]
+[1.49367048 0.         0.         0.         0.        ]
+[1.49367048 0.74429985 0.         0.         0.        ]
+[1.49367048 0.74429985 0.5876279  0.         0.        ]
+[1.49367048 0.74429985 0.5876279  1.39281223 0.        ]
+[1.49367048 0.74429985 0.5876279  1.39281223 1.89705682]
+[2.18592882 0.         0.         0.         0.        ]
+[2.18592882 1.87705124 0.         0.         0.        ]
+[2.18592882 1.87705124 2.04926148 0.         0.        ]
+[2.18592882 1.87705124 2.04926148 1.54218101 0.        ]
+[2.18592882 1.87705124 2.04926148 1.54218101 0.02744103]
+[1.3217647 0.        0.        0.        0.       ]
+[1.3217647  0.32610576 0.         0.         0.        ]
+[1.3217647  0.32610576 0.28518437 0.         0.        ]
+[1.3217647  0.32610576 0.28518437 1.98264638 0.        ]
+[1.3217647  0.32610576 0.28518437 1.98264638 1.87491714]
+[1.46896517 0.         0.         0.         0.        ]
+[1.46896517 2.15049747 0.         0.         0.        ]
+[1.46896517 2.15049747 2.10078197 0.         0.        ]
+[1.46896517 2.15049747 2.10078197 0.11840824 0.        ]
+[1.46896517 2.15049747 2.10078197 0.11840824 1.842083  ]
+[2.15048871 0.         0.         0.         0.        ]
+[2.15048871 0.67812636 0.         0.         0.        ]
+[2.15048871 0.67812636 0.95903924 0.         0.        ]
+[2.15048871 0.67812636 0.95903924 1.59122943 0.        ]
+[2.15048871 0.67812636 0.95903924 1.59122943 0.55429366]
+[1.74661157 0.         0.         0.         0.        ]
+[1.74661157 0.69905559 0.         0.         0.        ]
+[1.74661157 0.69905559 1.53431808 0.         0.        ]
+[1.74661157 0.69905559 1.53431808 1.90090296 0.        ]
+[1.74661157 0.69905559 1.53431808 1.90090296 0.21083262]
+[2.19248844 0.         0.         0.         0.        ]
+[2.19248844 1.4711937  0.         0.         0.        ]
+[2.19248844 1.4711937  0.11599583 0.         0.        ]
+[2.19248844 1.4711937  0.11599583 1.53064975 0.        ]
+[2.19248844 1.4711937  0.11599583 1.53064975 1.72510252]
+[2.14264741 0.         0.         0.         0.        ]
+[2.14264741 0.188048   0.         0.         0.        ]
+[2.14264741 0.188048   0.89906471 0.         0.        ]
+[2.14264741 0.188048   0.89906471 2.00449658 0.        ]
+[2.14264741 0.188048   0.89906471 2.00449658 1.05308595]
+[1.60044389 0.         0.         0.         0.        ]
+[1.60044389 0.12723912 0.         0.         0.        ]
+[1.60044389 0.12723912 1.30805897 0.         0.        ]
+[1.60044389 0.12723912 1.30805897 1.98547234 0.        ]
+[1.60044389 0.12723912 1.30805897 1.98547234 1.99791994]
+[1.86271777 0.         0.         0.         0.        ]
+[1.86271777 1.40363997 0.         0.         0.        ]
+[1.86271777 1.40363997 2.07290958 0.         0.        ]
+[1.86271777 1.40363997 2.07290958 2.14640741 0.        ]
+[1.86271777 1.40363997 2.07290958 2.14640741 0.17222062]
+[2.17760936 0.         0.         0.         0.        ]
+[2.17760936 0.78123501 0.         0.         0.        ]
+[2.17760936 0.78123501 0.17295042 0.         0.        ]
+[2.17760936 0.78123501 0.17295042 2.16830265 0.        ]
+[2.17760936 0.78123501 0.17295042 2.16830265 0.47085639]
+[2.1854233 0.        0.        0.        0.       ]
+[2.1854233  1.56042137 0.         0.         0.        ]
+[2.1854233  1.56042137 2.06013302 0.         0.        ]
+[2.1854233  1.56042137 2.06013302 2.19115041 0.        ]
+[2.1854233  1.56042137 2.06013302 2.19115041 0.02569289]
+[2.1043465 0.        0.        0.        0.       ]
+[2.1043465  0.15453062 0.         0.         0.        ]
+[2.1043465  0.15453062 2.17117163 0.         0.        ]
+[2.1043465  0.15453062 2.17117163 2.14467503 0.        ]
+[2.1043465  0.15453062 2.17117163 2.14467503 1.22015272]
+[1.15604442 0.         0.         0.         0.        ]
+[1.15604442 1.02483927 0.         0.         0.        ]
+[1.15604442 1.02483927 1.18162291 0.         0.        ]
+[1.15604442 1.02483927 1.18162291 1.04614058 0.        ]
+[1.15604442 1.02483927 1.18162291 1.04614058 1.11687139]
+[1.7757049 0.        0.        0.        0.       ]
+[1.7757049  1.68988014 0.         0.         0.        ]
+[1.7757049  1.68988014 1.90359022 0.         0.        ]
+[1.7757049  1.68988014 1.90359022 1.36000429 0.        ]
+[1.7757049  1.68988014 1.90359022 1.36000429 0.10009103]
+[2.01995786 0.         0.         0.         0.        ]
+[2.01995786 1.01431638 0.         0.         0.        ]
+[2.01995786 1.01431638 0.17491301 0.         0.        ]
+[2.01995786 1.01431638 0.17491301 1.57199597 0.        ]
+[2.01995786 1.01431638 0.17491301 1.57199597 1.39070713]
+[0.08841475 0.         0.         0.         0.        ]
+[0.08841475 1.10456737 0.         0.         0.        ]
+[0.08841475 1.10456737 1.09961144 0.         0.        ]
+[0.08841475 1.10456737 1.09961144 0.56141877 0.        ]
+[0.08841475 1.10456737 1.09961144 0.56141877 1.49365462]
+[1.45349682 0.         0.         0.         0.        ]
+[1.45349682 0.04039927 0.         0.         0.        ]
+[1.45349682 0.04039927 0.77216395 0.         0.        ]
+[1.45349682 0.04039927 0.77216395 1.99666036 0.        ]
+[1.45349682 0.04039927 0.77216395 1.99666036 2.10082502]
+[0.31693725 0.         0.         0.         0.        ]
+[0.31693725 0.3869406  0.         0.         0.        ]
+[0.31693725 0.3869406  1.29270612 0.         0.        ]
+[0.31693725 0.3869406  1.29270612 1.89066283 0.        ]
+[0.31693725 0.3869406  1.29270612 1.89066283 2.13496053]
+[2.19003328 0.         0.         0.         0.        ]
+[2.19003328 0.86930402 0.         0.         0.        ]
+[2.19003328 0.86930402 0.13375465 0.         0.        ]
+[2.19003328 0.86930402 0.13375465 1.33311873 0.        ]
+[2.19003328 0.86930402 0.13375465 1.33311873 0.8859704 ]
+[0.18827556 0.         0.         0.         0.        ]
+[0.18827556 0.78141291 0.         0.         0.        ]
+[0.18827556 0.78141291 2.11870105 0.         0.        ]
+[0.18827556 0.78141291 2.11870105 1.84961903 0.        ]
+[0.18827556 0.78141291 2.11870105 1.84961903 1.50795348]
+[0.21598211 0.         0.         0.         0.        ]
+[0.21598211 0.035101   0.         0.         0.        ]
+[0.21598211 0.035101   1.96077817 0.         0.        ]
+[0.21598211 0.035101   1.96077817 2.1234328  0.        ]
+[0.21598211 0.035101   1.96077817 2.1234328  2.05900769]
+[2.10798141 0.         0.         0.         0.        ]
+[2.10798141 0.28102964 0.         0.         0.        ]
+[2.10798141 0.28102964 0.59528071 0.         0.        ]
+[2.10798141 0.28102964 0.59528071 1.08208909 0.        ]
+[2.10798141 0.28102964 0.59528071 1.08208909 0.96395433]
+[2.13631098 0.         0.         0.         0.        ]
+[2.13631098 1.11584408 0.         0.         0.        ]
+[2.13631098 1.11584408 0.1405785  0.         0.        ]
+[2.13631098 1.11584408 0.1405785  0.34114695 0.        ]
+[2.13631098 1.11584408 0.1405785  0.34114695 2.11876853]
+[2.1811927 0.        0.        0.        0.       ]
+[2.1811927 0.9896015 0.        0.        0.       ]
+[2.1811927  0.9896015  0.17858446 0.         0.        ]
+[2.1811927  0.9896015  0.17858446 1.19804382 0.        ]
+[2.1811927  0.9896015  0.17858446 1.19804382 1.02876658]
+[0.37747927 0.         0.         0.         0.        ]
+[0.37747927 1.22316121 0.         0.         0.        ]
+[0.37747927 1.22316121 1.84209153 0.         0.        ]
+[0.37747927 1.22316121 1.84209153 1.14169929 0.        ]
+[0.37747927 1.22316121 1.84209153 1.14169929 1.00902688]
+[2.16996874 0.         0.         0.         0.        ]
+[2.16996874 0.84160954 0.         0.         0.        ]
+[2.16996874 0.84160954 0.17623317 0.         0.        ]
+[2.16996874 0.84160954 0.17623317 1.72885398 0.        ]
+[2.16996874 0.84160954 0.17623317 1.72885398 0.65485514]
+Post Ensemble Accuracy Score:  0.9506172839506173
+Post Ensemble Precision Score(Class wise):  [0.95266272 0.94326241 0.93442623 0.98089172 0.94375   ]  mean-  0.9509986164988856
+Post Ensemble Recall Score(Class wise):  [0.97575758 0.84713376 0.95       1.         0.98051948]  mean-  0.950682162847768
+Post Ensemble F1 Score(Class wise):  [0.96407186 0.89261745 0.94214876 0.9903537  0.96178344]  mean-  0.9501950407044151
+Post Ensemble Conf Matrix Score(Class wise):
+  [[161   4   0   0   0]
+ [  8 133  11   0   5]
+ [  0   2 171   3   4]
+ [  0   0   0 154   0]
+ [  0   2   1   0 151]]
