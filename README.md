@@ -49,3 +49,8 @@ Available arguments:
 - `--kfold`: K-Fold, to perform K fold cross validation. Default= 5
 
 3. Please don't forget to edit the above parameters before you start
+
+--------------------------------------------------------------------
+vit.ipynb is our new mehtod using vision transformer on the same dataset from the original paper.
+It should be run in colab. 
+Before run, you need to change the file path to the folder containing the dataset. 
